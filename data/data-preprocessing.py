@@ -22,9 +22,10 @@ with open("occupations.csv", newline='') as csvfile:
     writer = csv.writer(output_csv)
     for row in csvreader:
         occupation = row[1]
-        occupation_no_all_other = remove_all_other(occupation)
-        singular_occupation = plural_to_singular(occupation_no_all_other)
-        text = "The " + singular_occupation
-        writer.writerow([row[0], text])
+        if occupation.find(",") == -1 and occupation.find("and") == -1:
+            occupation_no_all_other = remove_all_other(occupation)
+            singular_occupation = plural_to_singular(occupation_no_all_other)
+            text = "The " + singular_occupation
+            writer.writerow([row[0], text])
 
     output_csv.close()

@@ -3,423 +3,159 @@
 2,The Management Occupation
 3,The Top Executive
 4,The Chief Executive
-5,The General and Operations Manager
 6,The Legislator
-7,"The Advertising, Marketing, Promotions, Public Relations, and Sales Manager"
-8,The Advertising and Promotions Manager
-9,The Marketing and Sales Manager
 10,The Marketing Manager
 11,The Sales Manager
-12,The Public Relations and Fundraising Manager
 13,The Public Relations Manager
 14,The Fundraising Manager
 15,The Operations Specialties Manager
-16,The Administrative Services and Facilities Manager
 17,The Administrative Services Manager
 18,The Facilities Manager
-19,The Computer and Information Systems Manager
 20,The Financial Manager
 21,The Industrial Production Manager
 22,The Purchasing Manager
-23,"The Transportation, Storage, and Distribution Manager"
-24,The Compensation and Benefits Manager
 25,The Human Resources Manager
-26,The Training and Development Manager
 27,The Other Management Occupation
-28,"The Farmers, Ranchers, and Other Agricultural Manager"
 29,The Construction Manager
-30,The Education and Childcare Administrator
-31,"The Education and Childcare Administrators, Preschool and Daycare"
-32,"The Education Administrators, Kindergarten through Secondary"
-33,"The Education Administrators, Postsecondary"
-34,The Education Administrator
-35,The Architectural and Engineering Manager
 36,The Food Service Manager
-37,The Entertainment and Recreation Manager
 38,The Gambling Manager
-39,"The Entertainment and Recreation Managers, Except Gambling"
 40,The Lodging Manager
-41,The Medical and Health Services Manager
 42,The Natural Sciences Manager
-43,The Postmasters and Mail Superintendent
-44,"The Property, Real Estate, and Community Association Manager"
-45,The Social and Community Service Manager
 46,The Emergency Management Director
 47,The Personal Service Manager
 48,The Funeral Home Manager
-49,The Personal Service Manager
-50,The Manager
-51,The Business and Financial Operations Occupation
 52,The Business Operations Specialist
-53,"The Agents and Business Managers of Artists, Performers, and Athlete"
-54,The Buyers and Purchasing Agent
-55,"The Claims Adjusters, Appraisers, Examiners, and Investigator"
-56,"The Claims Adjusters, Examiners, and Investigator"
-57,"The Insurance Appraisers, Auto Damage"
 58,The Compliance Officer
 59,The Cost Estimator
 60,The Human Resources Worker
 61,The Human Resources Specialist
 62,The Farm Labor Contractor
 63,The Labor Relations Specialist
-64,The Logisticians and Project Management Specialist
 65,The Logistician
 66,The Project Management Specialist
 67,The Management Analyst
-68,"The Meeting, Convention, and Event Planner"
 69,The Fundraiser
-70,"The Compensation, Benefits, and Job Analysis Specialist"
-71,The Training and Development Specialist
-72,The Market Research Analysts and Marketing Specialist
-73,The Business Operations Specialist
 74,The Financial Specialist
-75,The Accountants and Auditor
-76,The Property Appraisers and Assessor
 77,The Budget Analyst
 78,The Credit Analyst
-79,The Financial Analysts and Advisor
-80,The Financial and Investment Analyst
 81,The Personal Financial Advisor
 82,The Insurance Underwriter
 83,The Financial Risk Specialist
 84,The Financial Examiner
-85,The Credit Counselors and Loan Officer
 86,The Credit Counselor
 87,The Loan Officer
-88,"The Tax Examiners, Collectors and Preparers, and Revenue Agent"
-89,"The Tax Examiners and Collectors, and Revenue Agent"
 90,The Tax Preparer
-91,The Financial Specialist
-92,The Computer and Mathematical Occupation
 93,The Computer Occupation
-94,The Computer and Information Analyst
 95,The Computer Systems Analyst
 96,The Information Security Analyst
-97,The Computer and Information Research Scientist
 98,The Computer Support Specialist
 99,The Computer Network Support Specialist
 100,The Computer User Support Specialist
-101,The Database and Network Administrators and Architect
 102,The Computer Network Architect
 103,The Database Administrator
 104,The Database Architect
-105,The Network and Computer Systems Administrator
-106,"The Software and Web Developers, Programmers, and Tester"
 107,The Computer Programmer
 108,The Software Developer
-109,The Software Quality Assurance Analysts and Tester
 110,The Web Developer
-111,The Web and Digital Interface Designer
-112,The Computer Occupation
 113,The Mathematical Science Occupation
 114,The Actuarie
 115,The Mathematician
 116,The Operations Research Analyst
 117,The Statistician
 118,The Data Scientist
-119,The Mathematical Science Occupation
-120,The Architecture and Engineering Occupation
-121,"The Architects, Surveyors, and Cartographer"
-122,"The Architects, Except Naval"
-123,"The Architects, Except Landscape and Naval"
-124,The Landscape Architect
-125,"The Surveyors, Cartographers, and Photogrammetrist"
-126,The Cartographers and Photogrammetrist
 127,The Surveyor
 128,The Engineer
 129,The Aerospace Engineer
 130,The Agricultural Engineer
-131,The Bioengineers and Biomedical Engineer
 132,The Chemical Engineer
 133,The Civil Engineer
 134,The Computer Hardware Engineer
-135,The Electrical and Electronics Engineer
 136,The Electrical Engineer
-137,"The Electronics Engineers, Except Computer"
 138,The Environmental Engineer
-139,"The Industrial Engineers, Including Health and Safety"
-140,"The Health and Safety Engineers, Except Mining Safety Engineers and Inspector"
 141,The Industrial Engineer
-142,The Marine Engineers and Naval Architect
 143,The Materials Engineer
 144,The Mechanical Engineer
-145,"The Mining and Geological Engineers, Including Mining Safety Engineer"
 146,The Nuclear Engineer
 147,The Petroleum Engineer
-148,The Engineer
-149,"The Drafters, Engineering Technicians, and Mapping Technician"
 150,The Drafter
-151,The Architectural and Civil Drafter
-152,The Electrical and Electronics Drafter
 153,The Mechanical Drafter
-154,The Drafter
-155,"The Engineering Technologists and Technicians, Except Drafter"
-156,The Aerospace Engineering and Operations Technologists and Technician
-157,The Civil Engineering Technologists and Technician
-158,The Electrical and Electronic Engineering Technologists and Technician
-159,The Electro-Mechanical and Mechatronics Technologists and Technician
-160,The Environmental Engineering Technologists and Technician
-161,The Industrial Engineering Technologists and Technician
-162,The Mechanical Engineering Technologists and Technician
-163,The Calibration Technologists and Technician
-164,"The Engineering Technologists and Technicians, Except Drafter"
-165,The Surveying and Mapping Technician
-166,"The Life, Physical, and Social Science Occupation"
 167,The Life Scientist
-168,The Agricultural and Food Scientist
 169,The Animal Scientist
-170,The Food Scientists and Technologist
-171,The Soil and Plant Scientist
 172,The Biological Scientist
-173,The Biochemists and Biophysicist
 174,The Microbiologist
-175,The Zoologists and Wildlife Biologist
-176,The Biological Scientist
-177,The Conservation Scientists and Forester
 178,The Conservation Scientist
 179,The Forester
 180,The Medical Scientist
 181,The Epidemiologist
-182,"The Medical Scientists, Except Epidemiologist"
-183,The Life Scientist
 184,The Physical Scientist
-185,The Astronomers and Physicist
 186,The Astronomer
 187,The Physicist
-188,The Atmospheric and Space Scientist
-189,The Chemists and Materials Scientist
 190,The Chemist
 191,The Materials Scientist
-192,The Environmental Scientists and Geoscientist
-193,"The Environmental Scientists and Specialists, Including Health"
-194,"The Geoscientists, Except Hydrologists and Geographer"
 195,The Hydrologist
-196,The Physical Scientist
-197,The Social Scientists and Related Worker
 198,The Economist
 199,The Survey Researcher
 200,The Psychologist
 201,The Industrial-Organizational Psychologist
-202,The Clinical and Counseling Psychologist
 203,The School Psychologist
-204,The Psychologist
 205,The Sociologist
-206,The Urban and Regional Planner
-207,The Miscellaneous Social Scientists and Related Worker
-208,The Anthropologists and Archeologist
 209,The Geographer
 210,The Historian
 211,The Political Scientist
-212,The Social Scientists and Related Worker
-213,"The Life, Physical, and Social Science Technician"
-214,The Agricultural and Food Science Technician
 215,The Agricultural Technician
 216,The Food Science Technician
 217,The Biological Technician
 218,The Chemical Technician
-219,The Environmental Science and Geoscience Technician
-220,"The Environmental Science and Protection Technicians, Including Health"
-221,"The Geological Technicians, Except Hydrologic Technician"
 222,The Hydrologic Technician
 223,The Nuclear Technician
 224,The Social Science Research Assistant
-225,The Forest and Conservation Technician
-226,"The Miscellaneous Life, Physical, and Social Science Technician"
 227,The Forensic Science Technician
-228,"The Life, Physical, and Social Science Technician"
-229,The Occupational Health and Safety Specialists and Technician
-230,The Occupational Health and Safety Specialist
-231,The Occupational Health and Safety Technician
-232,The Community and Social Service Occupation
-233,"The Counselors, Social Workers, and Other Community and Social Service Specialist"
 234,The Counselor
-235,"The Educational, Guidance, and Career Counselors and Advisor"
-236,The Marriage and Family Therapist
 237,The Rehabilitation Counselor
-238,"The Substance Abuse, Behavioral Disorder, and Mental Health Counselor"
-239,The Counselor
 240,The Social Worker
-241,"The Child, Family, and School Social Worker"
 242,The Healthcare Social Worker
-243,The Mental Health and Substance Abuse Social Worker
-244,The Social Worker
-245,The Miscellaneous Community and Social Service Specialist
 246,The Health Education Specialist
-247,The Probation Officers and Correctional Treatment Specialist
-248,The Social and Human Service Assistant
 249,The Community Health Worker
-250,The Community and Social Service Specialist
 251,The Religious Worker
 252,The Clergy
-253,"The Directors, Religious Activities and Education"
-254,The Religious Worker
 255,The Legal Occupation
-256,"The Lawyers, Judges, and Related Worker"
-257,The Lawyers and Judicial Law Clerk
 258,The Lawyer
 259,The Judicial Law Clerk
-260,"The Judges, Magistrates, and Other Judicial Worker"
-261,"The Administrative Law Judges, Adjudicators, and Hearing Officer"
-262,"The Arbitrators, Mediators, and Conciliator"
-263,"The Judges, Magistrate Judges, and Magistrate"
 264,The Legal Support Worker
-265,The Paralegals and Legal Assistant
 266,The Miscellaneous Legal Support Worker
-267,"The Title Examiners, Abstractors, and Searcher"
-268,The Legal Support Worker
-269,The Educational Instruction and Library Occupation
 270,The Postsecondary Teacher
-271,"The Business Teachers, Postsecondary"
-272,"The Math and Computer Science Teachers, Postsecondary"
-273,"The Computer Science Teachers, Postsecondary"
-274,"The Mathematical Science Teachers, Postsecondary"
-275,"The Engineering and Architecture Teachers, Postsecondary"
-276,"The Architecture Teachers, Postsecondary"
-277,"The Engineering Teachers, Postsecondary"
-278,"The Life Sciences Teachers, Postsecondary"
-279,"The Agricultural Sciences Teachers, Postsecondary"
-280,"The Biological Science Teachers, Postsecondary"
-281,"The Forestry and Conservation Science Teachers, Postsecondary"
-282,"The Physical Sciences Teachers, Postsecondary"
-283,"The Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary"
-284,"The Chemistry Teachers, Postsecondary"
-285,"The Environmental Science Teachers, Postsecondary"
-286,"The Physics Teachers, Postsecondary"
-287,"The Social Sciences Teachers, Postsecondary"
-288,"The Anthropology and Archeology Teachers, Postsecondary"
-289,"The Area, Ethnic, and Cultural Studies Teachers, Postsecondary"
-290,"The Economics Teachers, Postsecondary"
-291,"The Geography Teachers, Postsecondary"
-292,"The Political Science Teachers, Postsecondary"
-293,"The Psychology Teachers, Postsecondary"
-294,"The Sociology Teachers, Postsecondary"
-295,"The Social Sciences Teachers, Postsecondary"
-296,"The Health Teachers, Postsecondary"
-297,"The Health Specialties Teachers, Postsecondary"
-298,"The Nursing Instructors and Teachers, Postsecondary"
-299,"The Education and Library Science Teachers, Postsecondary"
-300,"The Education Teachers, Postsecondary"
-301,"The Library Science Teachers, Postsecondary"
-302,"The Law, Criminal Justice, and Social Work Teachers, Postsecondary"
-303,"The Criminal Justice and Law Enforcement Teachers, Postsecondary"
-304,"The Law Teachers, Postsecondary"
-305,"The Social Work Teachers, Postsecondary"
-306,"The Arts, Communications, History, and Humanities Teachers, Postsecondary"
-307,"The Art, Drama, and Music Teachers, Postsecondary"
-308,"The Communications Teachers, Postsecondary"
-309,"The English Language and Literature Teachers, Postsecondary"
-310,"The Foreign Language and Literature Teachers, Postsecondary"
-311,"The History Teachers, Postsecondary"
-312,"The Philosophy and Religion Teachers, Postsecondary"
 313,The Miscellaneous Postsecondary Teacher
-314,"The Family and Consumer Sciences Teachers, Postsecondary"
-315,"The Recreation and Fitness Studies Teachers, Postsecondary"
-316,"The Career/Technical Education Teachers, Postsecondary"
-317,The Postsecondary Teacher
-318,"The Preschool, Elementary, Middle, Secondary, and Special Education Teacher"
-319,The Preschool and Kindergarten Teacher
-320,"The Preschool Teachers, Except Special Education"
-321,"The Kindergarten Teachers, Except Special Education"
-322,The Elementary and Middle School Teacher
-323,"The Elementary School Teachers, Except Special Education"
-324,"The Middle School Teachers, Except Special and Career/Technical Education"
-325,"The Career/Technical Education Teachers, Middle School"
 326,The Secondary School Teacher
-327,"The Secondary School Teachers, Except Special and Career/Technical Education"
-328,"The Career/Technical Education Teachers, Secondary School"
 329,The Special Education Teacher
-330,"The Special Education Teachers, Preschool"
-331,"The Special Education Teachers, Kindergarten and Elementary School"
-332,"The Special Education Teachers, Middle School"
-333,"The Special Education Teachers, Secondary School"
-334,The Special Education Teacher
-335,The Other Teachers and Instructor
-336,"The Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructor"
 337,The Self-Enrichment Teacher
-338,"The Substitute Teachers, Short-Term"
 339,The Tutor
-340,The Teachers and Instructor
-341,"The Librarians, Curators, and Archivist"
-342,"The Archivists, Curators, and Museum Technician"
 343,The Archivist
 344,The Curator
-345,The Museum Technicians and Conservator
-346,The Librarians and Media Collections Specialist
 347,The Library Technician
-348,The Other Educational Instruction and Library Occupation
-349,The Farm and Home Management Educator
 350,The Instructional Coordinator
 351,The Teaching Assistant
-352,"The Teaching Assistants, Postsecondary"
-353,"The Teaching Assistants, Except Postsecondary"
-354,The Educational Instruction and Library Worker
-355,"The Arts, Design, Entertainment, Sports, and Media Occupation"
-356,The Art and Design Worker
-357,The Artists and Related Worker
 358,The Art Director
 359,The Craft Artist
-360,"The Fine Artists, Including Painters, Sculptors, and Illustrator"
-361,The Special Effects Artists and Animator
-362,The Artists and Related Worker
 363,The Designer
-364,The Commercial and Industrial Designer
 365,The Fashion Designer
 366,The Floral Designer
 367,The Graphic Designer
 368,The Interior Designer
-369,The Merchandise Displayers and Window Trimmer
-370,The Set and Exhibit Designer
-371,The Designer
-372,"The Entertainers and Performers, Sports and Related Worker"
-373,"The Actors, Producers, and Director"
 374,The Actor
-375,The Producers and Director
-376,"The Athletes, Coaches, Umpires, and Related Worker"
-377,The Athletes and Sports Competitor
-378,The Coaches and Scout
-379,"The Umpires, Referees, and Other Sports Official"
-380,The Dancers and Choreographer
 381,The Dancer
 382,The Choreographer
-383,"The Musicians, Singers, and Related Worker"
-384,The Music Directors and Composer
-385,The Musicians and Singer
-386,"The Miscellaneous Entertainers and Performers, Sports and Related Worker"
-387,"The Disc Jockeys, Except Radio"
-388,"The Entertainers and Performers, Sports and Related Worker"
-389,The Media and Communication Worker
-390,The Broadcast Announcers and Radio Disc Jockey
-391,"The News Analysts, Reporters, and Journalist"
 392,The Public Relations Specialist
-393,The Writers and Editor
 394,The Editor
 395,The Technical Writer
-396,The Writers and Author
-397,The Miscellaneous Media and Communication Worker
-398,The Interpreters and Translator
-399,The Court Reporters and Simultaneous Captioner
-400,The Media and Communication Worker
-401,The Media and Communication Equipment Worker
-402,"The Broadcast, Sound, and Lighting Technician"
-403,The Audio and Video Technician
 404,The Broadcast Technician
 405,The Sound Engineering Technician
 406,The Lighting Technician
 407,The Photographer
-408,"The Television, Video, and Film Camera Operators and Editor"
-409,"The Camera Operators, Television, Video, and Film"
-410,The Film and Video Editor
-411,The Media and Communication Equipment Worker
-412,The Healthcare Practitioners and Technical Occupation
 413,The Healthcare Diagnosing or Treating Practitioner
 414,The Chiropractor
 415,The Dentist
-416,"The Dentists, General"
-417,The Oral and Maxillofacial Surgeon
 418,The Orthodontist
 419,The Prosthodontist
-420,The Dentist
-421,The Dietitians and Nutritionist
 422,The Optometrist
 423,The Pharmacist
 424,The Physician Assistant
@@ -432,7 +168,6 @@
 431,The Respiratory Therapist
 432,The Speech-Language Pathologist
 433,The Exercise Physiologist
-434,The Therapist
 435,The Veterinarian
 436,The Registered Nurse
 437,The Nurse Anesthetist
@@ -447,66 +182,35 @@
 446,The Family Medicine Physician
 447,The General Internal Medicine Physician
 448,The Neurologist
-449,The Obstetricians and Gynecologist
-450,"The Pediatricians, General"
-451,"The Physicians, Pathologist"
 452,The Psychiatrist
 453,The Radiologist
-454,The Physician
 455,The Surgeon
-456,"The Ophthalmologists, Except Pediatric"
-457,"The Orthopedic Surgeons, Except Pediatric"
 458,The Pediatric Surgeon
-459,The Surgeon
 460,The Miscellaneous Healthcare Diagnosing or Treating Practitioner
 461,The Acupuncturist
 462,The Dental Hygienist
-463,The Healthcare Diagnosing or Treating Practitioner
-464,The Health Technologists and Technician
-465,The Clinical Laboratory Technologists and Technician
-466,The Diagnostic Related Technologists and Technician
-467,The Cardiovascular Technologists and Technician
 468,The Diagnostic Medical Sonographer
 469,The Nuclear Medicine Technologist
-470,The Radiologic Technologists and Technician
 471,The Magnetic Resonance Imaging Technologist
 472,The Medical Dosimetrist
-473,The Emergency Medical Technicians and Paramedic
 474,The Emergency Medical Technician
 475,The Paramedic
-476,The Health Practitioner Support Technologists and Technician
 477,The Dietetic Technician
 478,The Pharmacy Technician
 479,The Psychiatric Technician
 480,The Surgical Technologist
-481,The Veterinary Technologists and Technician
 482,The Ophthalmic Medical Technician
-483,The Licensed Practical and Licensed Vocational Nurse
 484,The Medical Records Specialist
-485,"The Opticians, Dispensing"
-486,The Miscellaneous Health Technologists and Technician
-487,The Orthotists and Prosthetist
 488,The Hearing Aid Specialist
-489,The Health Technologists and Technician
-490,The Other Healthcare Practitioners and Technical Occupation
-491,The Health Information Technologists and Medical Registrar
-492,The Miscellaneous Health Practitioners and Technical Worker
 493,The Athletic Trainer
 494,The Genetic Counselor
 495,The Surgical Assistant
-496,The Healthcare Practitioners and Technical Worker
 497,The Healthcare Support Occupation
-498,"The Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and Psychiatric Aide"
-499,The Home Health and Personal Care Aide
-500,"The Nursing Assistants, Orderlies, and Psychiatric Aide"
 501,The Nursing Assistant
 502,The Orderlie
 503,The Psychiatric Aide
-504,The Occupational Therapy and Physical Therapist Assistants and Aide
-505,The Occupational Therapy Assistants and Aide
 506,The Occupational Therapy Assistant
 507,The Occupational Therapy Aide
-508,The Physical Therapist Assistants and Aide
 509,The Physical Therapist Assistant
 510,The Physical Therapist Aide
 511,The Other Healthcare Support Occupation
@@ -517,590 +221,187 @@
 516,The Medical Equipment Preparer
 517,The Medical Transcriptionist
 518,The Pharmacy Aide
-519,The Veterinary Assistants and Laboratory Animal Caretaker
 520,The Phlebotomist
-521,The Healthcare Support Worker
 522,The Protective Service Occupation
 523,The Supervisors of Protective Service Worker
 524,The First-Line Supervisors of Law Enforcement Worker
 525,The First-Line Supervisors of Correctional Officer
-526,The First-Line Supervisors of Police and Detective
-527,The First-Line Supervisors of Firefighting and Prevention Worker
-528,"The Miscellaneous First-Line Supervisors, Protective Service Worker"
 529,The First-Line Supervisors of Security Worker
-530,The First-Line Supervisors of Protective Service Worker
-531,The Firefighting and Prevention Worker
 532,The Firefighter
 533,The Fire Inspector
-534,The Fire Inspectors and Investigator
-535,The Forest Fire Inspectors and Prevention Specialist
 536,The Law Enforcement Worker
-537,"The Bailiffs, Correctional Officers, and Jailer"
 538,The Bailiff
-539,The Correctional Officers and Jailer
-540,The Detectives and Criminal Investigator
-541,The Fish and Game Warden
 542,The Parking Enforcement Worker
 543,The Police Officer
-544,The Police and Sheriff's Patrol Officer
-545,The Transit and Railroad Police
 546,The Other Protective Service Worker
 547,The Animal Control Worker
-548,The Private Detectives and Investigator
-549,The Security Guards and Gambling Surveillance Officer
-550,The Gambling Surveillance Officers and Gambling Investigator
 551,The Security Guard
 552,The Miscellaneous Protective Service Worker
-553,The Crossing Guards and Flagger
-554,"The Lifeguards, Ski Patrol, and Other Recreational Protective Service Worker"
 555,The Transportation Security Screener
 556,The School Bus Monitor
-557,The Protective Service Worker
-558,The Food Preparation and Serving Related Occupation
-559,The Supervisors of Food Preparation and Serving Worker
-560,The Chefs and Head Cook
-561,The First-Line Supervisors of Food Preparation and Serving Worker
-562,The Cooks and Food Preparation Worker
 563,The Cook
-564,"The Cooks, Fast Food"
-565,"The Cooks, Institution and Cafeteria"
-566,"The Cooks, Private Household"
-567,"The Cooks, Restaurant"
-568,"The Cooks, Short Order"
-569,The Cook
 570,The Food Preparation Worker
-571,The Food and Beverage Serving Worker
 572,The Bartender
-573,The Fast Food and Counter Worker
-574,The Waiters and Waitresse
-575,"The Food Servers, Nonrestaurant"
-576,The Other Food Preparation and Serving Related Worker
-577,The Dining Room and Cafeteria Attendants and Bartender Helper
 578,The Dishwasher
-579,"The Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
-580,The Food Preparation and Serving Related Worker
-581,The Building and Grounds Cleaning and Maintenance Occupation
-582,The First-Line Supervisors of Building and Grounds Cleaning and Maintenance Worker
-583,The First-Line Supervisors of Housekeeping and Janitorial Worker
-584,"The First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Worker"
-585,The Building Cleaning and Pest Control Worker
 586,The Building Cleaning Worker
-587,"The Janitors and Cleaners, Except Maids and Housekeeping Cleaner"
-588,The Maids and Housekeeping Cleaner
-589,The Building Cleaning Worker
 590,The Pest Control Worker
 591,The Grounds Maintenance Worker
-592,The Landscaping and Groundskeeping Worker
-593,"The Pesticide Handlers, Sprayers, and Applicators, Vegetation"
-594,The Tree Trimmers and Pruner
-595,The Grounds Maintenance Worker
-596,The Personal Care and Service Occupation
-597,The Supervisors of Personal Care and Service Worker
-598,The First-Line Supervisors of Entertainment and Recreation Worker
 599,The First-Line Supervisors of Gambling Services Worker
-600,"The First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Service"
 601,The First-Line Supervisors of Personal Service Worker
-602,The Animal Care and Service Worker
 603,The Animal Trainer
 604,The Animal Caretaker
-605,The Entertainment Attendants and Related Worker
 606,The Gambling Services Worker
 607,The Gambling Dealer
-608,The Gambling and Sports Book Writers and Runner
-609,The Gambling Service Worker
 610,The Motion Picture Projectionist
-611,"The Ushers, Lobby Attendants, and Ticket Taker"
-612,The Miscellaneous Entertainment Attendants and Related Worker
-613,The Amusement and Recreation Attendant
 614,The Costume Attendant
-615,"The Locker Room, Coatroom, and Dressing Room Attendant"
-616,The Entertainment Attendants and Related Worker
 617,The Funeral Service Worker
-618,The Embalmers and Crematory Operator
 619,The Embalmer
 620,The Crematory Operator
 621,The Funeral Attendant
-622,"The Morticians, Undertakers, and Funeral Arranger"
 623,The Personal Appearance Worker
-624,"The Barbers, Hairdressers, Hairstylists and Cosmetologist"
 625,The Barber
-626,"The Hairdressers, Hairstylists, and Cosmetologist"
 627,The Miscellaneous Personal Appearance Worker
-628,"The Makeup Artists, Theatrical and Performance"
-629,The Manicurists and Pedicurist
 630,The Shampooer
 631,The Skincare Specialist
-632,"The Baggage Porters, Bellhops, and Concierge"
-633,The Baggage Porters and Bellhop
 634,The Concierge
-635,The Tour and Travel Guide
-636,The Other Personal Care and Service Worker
 637,The Childcare Worker
-638,The Recreation and Fitness Worker
-639,The Exercise Trainers and Group Fitness Instructor
 640,The Recreation Worker
 641,The Residential Advisor
-642,The Personal Care and Service Worker
-643,The Sales and Related Occupation
 644,The First-Line Supervisors of Sales Worker
 645,The First-Line Supervisors of Retail Sales Worker
 646,The First-Line Supervisors of Non-Retail Sales Worker
 647,The Retail Sales Worker
 648,The Cashier
 649,The Cashier
-650,The Gambling Change Persons and Booth Cashier
-651,The Counter and Rental Clerks and Parts Salesperson
-652,The Counter and Rental Clerk
 653,The Parts Salesperson
 654,The Retail Salesperson
-655,"The Sales Representatives, Service"
 656,The Advertising Sales Agent
 657,The Insurance Sales Agent
-658,"The Securities, Commodities, and Financial Services Sales Agent"
 659,The Travel Agent
-660,"The Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel"
-661,"The Sales Representatives, Wholesale and Manufacturing"
-662,"The Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Product"
-663,"The Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Product"
-664,The Other Sales and Related Worker
-665,"The Models, Demonstrators, and Product Promoter"
-666,The Demonstrators and Product Promoter
 667,The Model
-668,The Real Estate Brokers and Sales Agent
 669,The Real Estate Broker
 670,The Real Estate Sales Agent
 671,The Sales Engineer
 672,The Telemarketer
-673,The Miscellaneous Sales and Related Worker
-674,"The Door-to-Door Sales Workers, News and Street Vendors, and Related Worker"
-675,The Sales and Related Worker
-676,The Office and Administrative Support Occupation
-677,The First-Line Supervisors of Office and Administrative Support Worker
 678,The Communications Equipment Operator
-679,"The Switchboard Operators, Including Answering Service"
 680,The Telephone Operator
-681,The Communications Equipment Operator
 682,The Financial Clerk
-683,The Bill and Account Collector
-684,The Billing and Posting Clerk
-685,"The Bookkeeping, Accounting, and Auditing Clerk"
 686,The Gambling Cage Worker
-687,The Payroll and Timekeeping Clerk
 688,The Procurement Clerk
 689,The Teller
-690,The Financial Clerk
-691,The Information and Record Clerk
 692,The Brokerage Clerk
 693,The Correspondence Clerk
-694,"The Court, Municipal, and License Clerk"
-695,"The Credit Authorizers, Checkers, and Clerk"
 696,The Customer Service Representative
-697,"The Eligibility Interviewers, Government Program"
 698,The File Clerk
-699,"The Hotel, Motel, and Resort Desk Clerk"
-700,"The Interviewers, Except Eligibility and Loan"
-701,"The Library Assistants, Clerical"
-702,The Loan Interviewers and Clerk
 703,The New Accounts Clerk
 704,The Order Clerk
-705,"The Human Resources Assistants, Except Payroll and Timekeeping"
-706,The Receptionists and Information Clerk
-707,The Reservation and Transportation Ticket Agents and Travel Clerk
-708,The Information and Record Clerk
-709,"The Material Recording, Scheduling, Dispatching, and Distributing Worker"
-710,The Cargo and Freight Agent
-711,The Couriers and Messenger
 712,The Dispatcher
 713,The Public Safety Telecommunicator
-714,"The Dispatchers, Except Police, Fire, and Ambulance"
-715,"The Meter Readers, Utilitie"
 716,The Postal Service Worker
 717,The Postal Service Clerk
 718,The Postal Service Mail Carrier
-719,"The Postal Service Mail Sorters, Processors, and Processing Machine Operator"
-720,"The Production, Planning, and Expediting Clerk"
-721,"The Shipping, Receiving, and Inventory Clerk"
-722,"The Weighers, Measurers, Checkers, and Samplers, Recordkeeping"
-723,The Secretaries and Administrative Assistant
-724,The Executive Secretaries and Executive Administrative Assistant
-725,The Legal Secretaries and Administrative Assistant
-726,The Medical Secretaries and Administrative Assistant
-727,"The Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
-728,The Other Office and Administrative Support Worker
-729,The Data Entry and Information Processing Worker
 730,The Data Entry Keyer
-731,The Word Processors and Typist
 732,The Desktop Publisher
-733,The Insurance Claims and Policy Processing Clerk
-734,"The Mail Clerks and Mail Machine Operators, Except Postal Service"
-735,"The Office Clerks, General"
-736,"The Office Machine Operators, Except Computer"
-737,The Proofreaders and Copy Marker
 738,The Statistical Assistant
-739,The Office and Administrative Support Worker
-740,"The Farming, Fishing, and Forestry Occupation"
-741,"The First-Line Supervisors of Farming, Fishing, and Forestry Worker"
 742,The Agricultural Worker
 743,The Agricultural Inspector
 744,The Animal Breeder
-745,"The Graders and Sorters, Agricultural Product"
 746,The Miscellaneous Agricultural Worker
 747,The Agricultural Equipment Operator
-748,"The Farmworkers and Laborers, Crop, Nursery, and Greenhouse"
-749,"The Farmworkers, Farm, Ranch, and Aquacultural Animal"
-750,The Agricultural Worker
-751,"The Forest, Conservation, and Logging Worker"
-752,The Forest and Conservation Worker
 753,The Logging Worker
 754,The Faller
 755,The Logging Equipment Operator
-756,The Log Graders and Scaler
-757,The Logging Worker
-758,The Construction and Extraction Occupation
-759,The First-Line Supervisors of Construction Trades and Extraction Worker
 760,The Construction Trades Worker
 761,The Boilermaker
-762,"The Brickmasons, Blockmasons, and Stonemason"
-763,The Brickmasons and Blockmason
 764,The Stonemason
 765,The Carpenter
-766,"The Carpet, Floor, and Tile Installers and Finisher"
 767,The Carpet Installer
-768,"The Floor Layers, Except Carpet, Wood, and Hard Tile"
-769,The Floor Sanders and Finisher
-770,The Tile and Stone Setter
-771,"The Cement Masons, Concrete Finishers, and Terrazzo Worker"
-772,The Cement Masons and Concrete Finisher
-773,The Terrazzo Workers and Finisher
 774,The Construction Laborer
 775,The Construction Equipment Operator
-776,"The Paving, Surfacing, and Tamping Equipment Operator"
 777,The Pile Driver Operator
-778,The Operating Engineers and Other Construction Equipment Operator
-779,"The Drywall Installers, Ceiling Tile Installers, and Taper"
-780,The Drywall and Ceiling Tile Installer
 781,The Taper
 782,The Electrician
 783,The Glazier
 784,The Insulation Worker
-785,"The Insulation Workers, Floor, Ceiling, and Wall"
-786,"The Insulation Workers, Mechanical"
-787,The Painters and Paperhanger
-788,"The Painters, Construction and Maintenance"
 789,The Paperhanger
-790,"The Pipelayers, Plumbers, Pipefitters, and Steamfitter"
 791,The Pipelayer
-792,"The Plumbers, Pipefitters, and Steamfitter"
-793,The Plasterers and Stucco Mason
-794,The Reinforcing Iron and Rebar Worker
 795,The Roofer
 796,The Sheet Metal Worker
-797,The Structural Iron and Steel Worker
 798,The Solar Photovoltaic Installer
-799,"The Helpers, Construction Trade"
-800,"The Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setter"
 801,The Helpers--Carpenter
 802,The Helpers--Electrician
-803,"The Helpers--Painters, Paperhangers, Plasterers, and Stucco Mason"
-804,"The Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitter"
 805,The Helpers--Roofer
-806,"The Helpers, Construction Trade"
-807,The Other Construction and Related Worker
-808,The Construction and Building Inspector
-809,The Elevator and Escalator Installers and Repairer
 810,The Fence Erector
 811,The Hazardous Materials Removal Worker
 812,The Highway Maintenance Worker
-813,The Rail-Track Laying and Maintenance Equipment Operator
-814,The Septic Tank Servicers and Sewer Pipe Cleaner
-815,The Miscellaneous Construction and Related Worker
 816,The Extraction Worker
-817,"The Derrick, Rotary Drill, and Service Unit Operators, Oil and Ga"
-818,"The Derrick Operators, Oil and Ga"
-819,"The Rotary Drill Operators, Oil and Ga"
-820,"The Service Unit Operators, Oil and Ga"
-821,The Surface Mining Machine Operators and Earth Driller
-822,"The Excavating and Loading Machine and Dragline Operators, Surface Mining"
-823,"The Earth Drillers, Except Oil and Ga"
-824,"The Explosives Workers, Ordnance Handling Experts, and Blaster"
 825,The Underground Mining Machine Operator
 826,The Continuous Mining Machine Operator
-827,"The Roof Bolters, Mining"
-828,"The Loading and Moving Machine Operators, Underground Mining"
-829,The Underground Mining Machine Operator
-830,"The Rock Splitters, Quarry"
-831,"The Roustabouts, Oil and Ga"
 832,The Helpers--Extraction Worker
-833,The Extraction Worker
-834,"The Installation, Maintenance, and Repair Occupation"
-835,"The First-Line Supervisors of Mechanics, Installers, and Repairer"
-836,"The Electrical and Electronic Equipment Mechanics, Installers, and Repairer"
-837,"The Computer, Automated Teller, and Office Machine Repairer"
-838,The Radio and Telecommunications Equipment Installers and Repairer
-839,"The Radio, Cellular, and Tower Equipment Installers and Repairer"
-840,"The Telecommunications Equipment Installers and Repairers, Except Line Installer"
-841,"The Miscellaneous Electrical and Electronic Equipment Mechanics, Installers, and Repairer"
 842,The Avionics Technician
-843,"The Electric Motor, Power Tool, and Related Repairer"
-844,"The Electrical and Electronics Installers and Repairers, Transportation Equipment"
-845,"The Electrical and Electronics Repairers, Commercial and Industrial Equipment"
-846,"The Electrical and Electronics Repairers, Powerhouse, Substation, and Relay"
-847,"The Electronic Equipment Installers and Repairers, Motor Vehicle"
-848,The Audiovisual Equipment Installers and Repairer
-849,The Security and Fire Alarm Systems Installer
-850,"The Vehicle and Mobile Equipment Mechanics, Installers, and Repairer"
-851,The Aircraft Mechanics and Service Technician
-852,The Automotive Technicians and Repairer
-853,The Automotive Body and Related Repairer
-854,The Automotive Glass Installers and Repairer
-855,The Automotive Service Technicians and Mechanic
-856,The Bus and Truck Mechanics and Diesel Engine Specialist
-857,The Heavy Vehicle and Mobile Equipment Service Technicians and Mechanic
-858,The Farm Equipment Mechanics and Service Technician
-859,"The Mobile Heavy Equipment Mechanics, Except Engine"
 860,The Rail Car Repairer
 861,The Small Engine Mechanic
-862,The Motorboat Mechanics and Service Technician
 863,The Motorcycle Mechanic
-864,The Outdoor Power Equipment and Other Small Engine Mechanic
-865,"The Miscellaneous Vehicle and Mobile Equipment Mechanics, Installers, and Repairer"
 866,The Bicycle Repairer
 867,The Recreational Vehicle Service Technician
-868,The Tire Repairers and Changer
-869,"The Other Installation, Maintenance, and Repair Occupation"
-870,The Control and Valve Installers and Repairer
 871,The Mechanical Door Repairer
-872,"The Control and Valve Installers and Repairers, Except Mechanical Door"
-873,"The Heating, Air Conditioning, and Refrigeration Mechanics and Installer"
 874,The Home Appliance Repairer
-875,"The Industrial Machinery Installation, Repair, and Maintenance Worker"
 876,The Industrial Machinery Mechanic
-877,"The Maintenance Workers, Machinery"
 878,The Millwright
-879,"The Refractory Materials Repairers, Except Brickmason"
-880,The Line Installers and Repairer
-881,The Electrical Power-Line Installers and Repairer
-882,The Telecommunications Line Installers and Repairer
-883,The Precision Instrument and Equipment Repairer
-884,The Camera and Photographic Equipment Repairer
 885,The Medical Equipment Repairer
-886,The Musical Instrument Repairers and Tuner
-887,The Watch and Clock Repairer
-888,The Precision Instrument and Equipment Repairer
-889,"The Maintenance and Repair Workers, General"
 890,The Wind Turbine Service Technician
-891,"The Miscellaneous Installation, Maintenance, and Repair Worker"
-892,"The Coin, Vending, and Amusement Machine Servicers and Repairer"
 893,The Commercial Diver
-894,The Locksmiths and Safe Repairer
-895,The Manufactured Building and Mobile Home Installer
 896,The Rigger
-897,The Signal and Track Switch Repairer
-898,"The Helpers--Installation, Maintenance, and Repair Worker"
-899,"The Installation, Maintenance, and Repair Worker"
 900,The Production Occupation
-901,The First-Line Supervisors of Production and Operating Worker
-902,The Assemblers and Fabricator
-903,"The Aircraft Structure, Surfaces, Rigging, and Systems Assembler"
-904,"The Electrical, Electronics, and Electromechanical Assembler"
-905,"The Coil Winders, Tapers, and Finisher"
-906,"The Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finisher"
-907,The Engine and Other Machine Assembler
-908,The Structural Metal Fabricators and Fitter
-909,The Fiberglass Laminators and Fabricator
-910,The Timing Device Assemblers and Adjuster
-911,The Miscellaneous Assemblers and Fabricator
 912,The Food Processing Worker
 913,The Baker
-914,"The Butchers and Other Meat, Poultry, and Fish Processing Worker"
-915,The Butchers and Meat Cutter
-916,"The Meat, Poultry, and Fish Cutters and Trimmer"
-917,The Slaughterers and Meat Packer
 918,The Miscellaneous Food Processing Worker
-919,"The Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tender"
 920,The Food Batchmaker
-921,The Food Cooking Machine Operators and Tender
-922,The Food Processing Worker
-923,The Metal Workers and Plastic Worker
-924,"The Forming Machine Setters, Operators, and Tenders, Metal and Plastic"
-925,"The Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic"
-926,"The Forging Machine Setters, Operators, and Tenders, Metal and Plastic"
-927,"The Rolling Machine Setters, Operators, and Tenders, Metal and Plastic"
-928,"The Machine Tool Cutting Setters, Operators, and Tenders, Metal and Plastic"
-929,"The Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic"
-930,"The Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
-931,"The Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
-932,"The Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
-933,"The Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic"
 934,The Machinist
-935,"The Metal Furnace Operators, Tenders, Pourers, and Caster"
-936,The Metal-Refining Furnace Operators and Tender
-937,"The Pourers and Casters, Metal"
-938,"The Model Makers and Patternmakers, Metal and Plastic"
-939,"The Model Makers, Metal and Plastic"
-940,"The Patternmakers, Metal and Plastic"
-941,"The Molders and Molding Machine Setters, Operators, and Tenders, Metal and Plastic"
-942,The Foundry Mold and Coremaker
-943,"The Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic"
-944,"The Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
-945,The Tool and Die Maker
-946,"The Welding, Soldering, and Brazing Worker"
-947,"The Welders, Cutters, Solderers, and Brazer"
-948,"The Welding, Soldering, and Brazing Machine Setters, Operators, and Tender"
-949,The Miscellaneous Metal Workers and Plastic Worker
-950,"The Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic"
-951,"The Layout Workers, Metal and Plastic"
-952,"The Plating Machine Setters, Operators, and Tenders, Metal and Plastic"
-953,"The Tool Grinders, Filers, and Sharpener"
-954,The Metal Workers and Plastic Worker
 955,The Printing Worker
-956,The Prepress Technicians and Worker
 957,The Printing Press Operator
-958,The Print Binding and Finishing Worker
-959,"The Textile, Apparel, and Furnishings Worker"
-960,The Laundry and Dry-Cleaning Worker
-961,"The Pressers, Textile, Garment, and Related Material"
 962,The Sewing Machine Operator
-963,The Shoe and Leather Worker
-964,The Shoe and Leather Workers and Repairer
-965,The Shoe Machine Operators and Tender
-966,"The Tailors, Dressmakers, and Sewer"
-967,"The Sewers, Hand"
-968,"The Tailors, Dressmakers, and Custom Sewer"
-969,"The Textile Machine Setters, Operators, and Tender"
-970,The Textile Bleaching and Dyeing Machine Operators and Tender
-971,"The Textile Cutting Machine Setters, Operators, and Tender"
-972,"The Textile Knitting and Weaving Machine Setters, Operators, and Tender"
-973,"The Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tender"
-974,"The Miscellaneous Textile, Apparel, and Furnishings Worker"
-975,"The Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fiber"
-976,The Fabric and Apparel Patternmaker
 977,The Upholsterer
-978,"The Textile, Apparel, and Furnishings Worker"
 979,The Woodworker
-980,The Cabinetmakers and Bench Carpenter
 981,The Furniture Finisher
-982,"The Model Makers and Patternmakers, Wood"
-983,"The Model Makers, Wood"
-984,"The Patternmakers, Wood"
-985,"The Woodworking Machine Setters, Operators, and Tender"
-986,"The Sawing Machine Setters, Operators, and Tenders, Wood"
-987,"The Woodworking Machine Setters, Operators, and Tenders, Except Sawing"
-988,The Woodworker
-989,The Plant and System Operator
-990,"The Power Plant Operators, Distributors, and Dispatcher"
 991,The Nuclear Power Reactor Operator
-992,The Power Distributors and Dispatcher
 993,The Power Plant Operator
-994,The Stationary Engineers and Boiler Operator
-995,The Water and Wastewater Treatment Plant and System Operator
-996,The Miscellaneous Plant and System Operator
-997,The Chemical Plant and System Operator
 998,The Gas Plant Operator
-999,"The Petroleum Pump System Operators, Refinery Operators, and Gauger"
-1000,The Plant and System Operator
 1001,The Other Production Occupation
-1002,"The Chemical Processing Machine Setters, Operators, and Tender"
-1003,The Chemical Equipment Operators and Tender
-1004,"The Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tender"
-1005,"The Crushing, Grinding, Polishing, Mixing, and Blending Worker"
-1006,"The Crushing, Grinding, and Polishing Machine Setters, Operators, and Tender"
-1007,"The Grinding and Polishing Workers, Hand"
-1008,"The Mixing and Blending Machine Setters, Operators, and Tender"
 1009,The Cutting Worker
-1010,"The Cutters and Trimmers, Hand"
-1011,"The Cutting and Slicing Machine Setters, Operators, and Tender"
-1012,"The Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tender"
-1013,"The Furnace, Kiln, Oven, Drier, and Kettle Operators and Tender"
-1014,"The Inspectors, Testers, Sorters, Samplers, and Weigher"
-1015,The Jewelers and Precious Stone and Metal Worker
-1016,The Dental and Ophthalmic Laboratory Technicians and Medical Appliance Technician
 1017,The Dental Laboratory Technician
 1018,The Medical Appliance Technician
 1019,The Ophthalmic Laboratory Technician
-1020,The Packaging and Filling Machine Operators and Tender
 1021,The Painting Worker
-1022,"The Painting, Coating, and Decorating Worker"
-1023,"The Coating, Painting, and Spraying Machine Setters, Operators, and Tender"
 1024,The Semiconductor Processing Technician
-1025,The Photographic Process Workers and Processing Machine Operator
-1026,The Computer Numerically Controlled Tool Operators and Programmer
 1027,The Computer Numerically Controlled Tool Operator
 1028,The Computer Numerically Controlled Tool Programmer
 1029,The Miscellaneous Production Worker
-1030,The Adhesive Bonding Machine Operators and Tender
-1031,"The Cleaning, Washing, and Metal Pickling Equipment Operators and Tender"
-1032,The Cooling and Freezing Equipment Operators and Tender
-1033,The Etchers and Engraver
-1034,"The Molders, Shapers, and Casters, Except Metal and Plastic"
-1035,"The Paper Goods Machine Setters, Operators, and Tender"
 1036,The Tire Builder
 1037,The Helpers--Production Worker
-1038,The Production Worker
-1039,The Transportation and Material Moving Occupation
-1040,The First-Line Supervisors of Transportation and Material Moving Worker
-1041,The Aircraft Cargo Handling Supervisor
-1042,"The First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisor"
 1043,The Air Transportation Worker
-1044,The Aircraft Pilots and Flight Engineer
-1045,"The Airline Pilots, Copilots, and Flight Engineer"
 1046,The Commercial Pilot
-1047,The Air Traffic Controllers and Airfield Operations Specialist
 1048,The Air Traffic Controller
 1049,The Airfield Operations Specialist
 1050,The Flight Attendant
 1051,The Motor Vehicle Operator
-1052,"The Ambulance Drivers and Attendants, Except Emergency Medical Technician"
-1053,The Driver/Sales Workers and Truck Driver
 1054,The Driver/Sales Worker
-1055,The Heavy and Tractor-Trailer Truck Driver
 1056,The Light Truck Driver
 1057,The Passenger Vehicle Driver
-1058,"The Bus Drivers, School"
-1059,"The Bus Drivers, Transit and Intercity"
-1060,The Shuttle Drivers and Chauffeur
 1061,The Taxi Driver
-1062,The Motor Vehicle Operator
 1063,The Rail Transportation Worker
-1064,The Locomotive Engineers and Operator
 1065,The Locomotive Engineer
-1066,"The Rail Yard Engineers, Dinkey Operators, and Hostler"
-1067,"The Railroad Brake, Signal, and Switch Operators and Locomotive Firer"
-1068,The Railroad Conductors and Yardmaster
-1069,The Subway and Streetcar Operator
-1070,The Rail Transportation Worker
 1071,The Water Transportation Worker
-1072,The Sailors and Marine Oiler
-1073,The Ship and Boat Captains and Operator
-1074,"The Captains, Mates, and Pilots of Water Vessel"
 1075,The Motorboat Operator
 1076,The Ship Engineer
 1077,The Other Transportation Worker
-1078,The Bridge and Lock Tender
 1079,The Parking Attendant
 1080,The Transportation Service Attendant
-1081,The Automotive and Watercraft Service Attendant
 1082,The Aircraft Service Attendant
 1083,The Traffic Technician
 1084,The Transportation Inspector
 1085,The Passenger Attendant
-1086,The Transportation Worker
 1087,The Material Moving Worker
-1088,The Conveyor Operators and Tender
-1089,The Crane and Tower Operator
 1090,The Dredge Operator
-1091,The Hoist and Winch Operator
-1092,The Industrial Truck and Tractor Operator
-1093,The Laborers and Material Mover
-1094,The Cleaners of Vehicles and Equipment
-1095,"The Laborers and Freight, Stock, and Material Movers, Hand"
-1096,The Machine Feeders and Offbearer
-1097,"The Packers and Packagers, Hand"
-1098,The Stockers and Order Filler
 1099,The Pumping Station Operator
-1100,The Gas Compressor and Gas Pumping Station Operator
-1101,"The Pump Operators, Except Wellhead Pumper"
 1102,The Wellhead Pumper
-1103,The Refuse and Recyclable Material Collector
-1104,"The Tank Car, Truck, and Ship Loader"
-1105,The Material Moving Worker
