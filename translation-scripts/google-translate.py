@@ -49,4 +49,5 @@ def translate_csv(input_csv_name, output_csv_name, target_language):
 
 
 # example of how to run the translate_csv function using arabic translation
-translate_csv("occupations.csv", "google-translate-output-ar", "ar")
+translate_csv("/Users/nadaattia/Desktop/Cornell-Bias-Labs/data/processed-occupations.csv",
+              "google-translate-output-sp", "es")
