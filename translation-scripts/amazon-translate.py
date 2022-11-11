@@ -14,8 +14,6 @@ with open(input_csv_name, newline='') as csvfile:
         occupation = row[1]
         result = translate.translate_text(Text = occupation,
                     SourceLanguageCode="en", TargetLanguageCode="es")
-        # print(result.get('TranslatedText'))
-        # text, translation = translate_text(target_language, occupation)
         writer.writerow([occupation, result.get('TranslatedText')])
 
     output_csv.close()
