@@ -1,3 +1,4 @@
 .env
+.DS_Store
 UNKNOWN.*
 cornell-bias-43c64bf499ec.json
