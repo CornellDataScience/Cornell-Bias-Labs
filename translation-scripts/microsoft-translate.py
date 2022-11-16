@@ -1,18 +1,18 @@
-import requests, uuid, json
-from dotenv import dotenv_values
+import os, requests, uuid, json
+from dotenv import load_dotenv
 import csv
 
-input_csv_name = "../data/occupations.csv"
-output_csv_name = "microsoft-translate-output-sp.csv"
+load_dotenv()
 
-config = dotenv_values(".env")  
+input_csv_name = "data/processed-occupations.csv"
+output_csv_name = "microsoft-translate-output.csv"
 
-key = config["MS_API_KEY"]
+key = os.environ.get("MS_API_KEY")
 endpoint = "https://api.cognitive.microsofttranslator.com"
 
 # location, also known as region.
 # required if you're using a multi-service or regional (not global) resource. It can be found in the Azure portal on the Keys and Endpoint page.
-location = config["MS_LOCATION"]
+location = os.environ.get("MS_LOCATION")
 
 path = '/translate'
 constructed_url = endpoint + path
@@ -20,7 +20,7 @@ constructed_url = endpoint + path
 params = {
 'api-version': '3.0',
 'from': 'en',
-'to': 'es'
+'to': ['ar', 'es']
 }
 
 headers = {
@@ -44,7 +44,7 @@ with open(input_csv_name, newline='') as csvfile:
             request = requests.post(constructed_url, params=params, headers=headers, json=body)
             response = request.json()
             print(json.dumps(response, sort_keys=True, ensure_ascii=False, indent=4, separators=(',', ': ')))
-            writer.writerow([occupation, response[0]['translations'][0]['text']])
+            writer.writerow([occupation, response[0]['translations'][0]['text'], response[0]['translations'][1]['text']])
 
         output_csv.close()
 
