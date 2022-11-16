@@ -3,3 +3,405 @@ The All Occupation,كل الاحتلال,La ocupación de todos
 The Management Occupation,مهنة الإدارة,La ocupación de gestión
 The Top Executive,أعلى تنفيذي,El Alto Ejecutivo
 The Chief Executive,الرئيس التنفيذي,El Director Ejecutivo
+The Legislator,المشرع,El legislador
+The Marketing Manager,مدير التسويق,El Gerente de Marketing
+The Sales Manager,مدير المبيعات,El Gerente de Ventas
+The Public Relations Manager,مدير العلاقات العامة,El Gerente de Relaciones Públicas
+The Fundraising Manager,مدير جمع التبرعات,El Gerente de Recaudación de Fondos
+The Operations Specialties Manager,مدير تخصصات العمليات,El Gerente de Especialidades de Operaciones
+The Administrative Services Manager,مدير الخدمات الإدارية,El Gerente de Servicios Administrativos
+The Facilities Manager,مدير المرافق,El Gerente de Instalaciones
+The Financial Manager,المدير المالي,El Gerente Financiero
+The Industrial Production Manager,مدير الإنتاج الصناعي,El Gerente de Producción Industrial
+The Purchasing Manager,مدير المشتريات,El Gerente de Compras
+The Human Resources Manager,مدير الموارد البشرية,El Gerente de Recursos Humanos
+The Other Management Occupation,مهنة الإدارة الأخرى,La otra ocupación de gestión
+The Construction Manager,مدير الإنشاءات,El Gerente de Construcción
+The Food Service Manager,مدير الخدمات الغذائية,El Gerente de Servicio de Alimentos
+The Gambling Manager,مدير المقامرة,El gerente de juegos de azar
+The Lodging Manager,مدير السكن,El Gerente de Alojamiento
+The Natural Sciences Manager,مدير العلوم الطبيعية,El Gerente de Ciencias Naturales
+The Emergency Management Director,مدير إدارة الطوارئ,El Director de Manejo de Emergencias
+The Personal Service Manager,مدير الخدمة الشخصية,El Gerente de Servicio Personal
+The Funeral Home Manager,مدير بيت الجنازة,El gerente de la funeraria
+The Business Operations Specialist,أخصائي العمليات التجارية,El especialista en operaciones comerciales
+The Compliance Officer,مسؤول الامتثال,El Oficial de Cumplimiento
+The Cost Estimator,مقدر التكلفة,El estimador de costos
+The Human Resources Worker,عامل الموارد البشرية,El trabajador de recursos humanos
+The Human Resources Specialist,أخصائي الموارد البشرية,El Especialista en Recursos Humanos
+The Farm Labor Contractor,مقاول العمل الزراعي,El contratista de mano de obra agrícola
+The Labor Relations Specialist,أخصائي علاقات العمل,El Especialista en Relaciones Laborales
+The Logistician,اللوجستي,El Logista
+The Project Management Specialist,أخصائي إدارة المشاريع,El especialista en gestión de proyectos
+The Management Analyst,المحلل الإداري,El Analista de Gestión
+The Fundraiser,جمع التبرعات,La recaudación de fondos
+The Financial Specialist,الأخصائي المالي,El Especialista Financiero
+The Budget Analyst,محلل الميزانية,El Analista de Presupuesto
+The Credit Analyst,محلل الائتمان,El analista de crédito
+The Personal Financial Advisor,المستشار المالي الشخصي,El Asesor Financiero Personal
+The Insurance Underwriter,مكتتب التأمين,El suscriptor de seguros
+The Financial Risk Specialist,أخصائي المخاطر المالية,El especialista en riesgos financieros
+The Financial Examiner,الفاحص المالي,El examinador financiero
+The Credit Counselor,مستشار الائتمان,El Consejero de Crédito
+The Loan Officer,موظف القروض,El Oficial de Préstamos
+The Tax Preparer,معد الضرائب,El preparador de impuestos
+The Computer Occupation,مهنة الكمبيوتر,La ocupación informática
+The Computer Systems Analyst,محلل نظم الكمبيوتر,El Analista de Sistemas Computacionales
+The Information Security Analyst,محلل أمن المعلومات,El Analista de Seguridad de la Información
+The Computer Support Specialist,أخصائي دعم الكمبيوتر,El especialista en soporte informático
+The Computer Network Support Specialist,أخصائي دعم شبكات الكمبيوتر,El especialista en soporte de redes informáticas
+The Computer User Support Specialist,أخصائي دعم مستخدمي الكمبيوتر,El especialista en soporte al usuario de computadoras
+The Computer Network Architect,مهندس شبكات الكمبيوتر,El arquitecto de redes informáticas
+The Database Administrator,مدير قاعدة البيانات,El administrador de la base de datos
+The Database Architect,مهندس قاعدة البيانات,El arquitecto de bases de datos
+The Computer Programmer,مبرمج الكمبيوتر,El programador informático
+The Software Developer,مطور البرامج,El desarrollador de software
+The Web Developer,مطور الويب,El desarrollador web
+The Mathematical Science Occupation,مهنة العلوم الرياضية,La ocupación de la ciencia matemática
+The Actuarie,الاكتوارية,El actuario
+The Mathematician,عالم الرياضيات,El matemático
+The Operations Research Analyst,محلل بحوث العمليات,El Analista de Investigación de Operaciones
+The Statistician,الإحصائي,El estadístico
+The Data Scientist,عالم البيانات,El científico de datos
+The Surveyor,المساح,El Topógrafo
+The Engineer,المهندس,El Ingeniero
+The Aerospace Engineer,مهندس الفضاء الجوي,El Ingeniero Aeroespacial
+The Agricultural Engineer,المهندس الزراعي,El Ingeniero Agrónomo
+The Chemical Engineer,المهندس الكيميائي,El Ingeniero Químico
+The Civil Engineer,المهندس المدني,El Ingeniero Civil
+The Computer Hardware Engineer,مهندس أجهزة الكمبيوتر,El ingeniero de hardware informático
+The Electrical Engineer,المهندس الكهربائي,El Ingeniero Eléctrico
+The Environmental Engineer,مهندس البيئة,El Ingeniero Ambiental
+The Industrial Engineer,المهندس الصناعي,El Ingeniero Industrial
+The Materials Engineer,مهندس المواد,El Ingeniero de Materiales
+The Mechanical Engineer,المهندس الميكانيكي,El Ingeniero Mecánico
+The Nuclear Engineer,المهندس النووي,El ingeniero nuclear
+The Petroleum Engineer,مهندس البترول,El Ingeniero de Petróleo
+The Drafter,الصائغ,El Dibujante
+The Mechanical Drafter,الصائغ الميكانيكي,El dibujante mecánico
+The Life Scientist,عالم الحياة,El científico de la vida
+The Animal Scientist,عالم الحيوان,El científico animal
+The Biological Scientist,العالم البيولوجي,El científico biológico
+The Microbiologist,عالم الأحياء الدقيقة,El Microbiólogo
+The Conservation Scientist,عالم الحفظ,El científico de la conservación
+The Forester,ذا فورستر,El Guardabosques
+The Medical Scientist,عالم الطب,El científico médico
+The Epidemiologist,عالم الأوبئة,El epidemiólogo
+The Physical Scientist,عالم الفيزياء,El científico físico
+The Astronomer,عالم الفلك,El astrónomo
+The Physicist,الفيزيائي,El físico
+The Chemist,الكيميائي,El químico
+The Materials Scientist,عالم المواد,El científico de materiales
+The Hydrologist,الهيدرولوجي,El hidrólogo
+The Economist,الإيكونوميست,El Economista
+The Survey Researcher,الباحث المسحي,El investigador de la encuesta
+The Psychologist,الطبيب النفسي,El psicólogo
+The Industrial-Organizational Psychologist,عالم النفس الصناعي التنظيمي,El Psicólogo Industrial-Organizacional
+The School Psychologist,أخصائي علم النفس المدرسي,El psicólogo escolar
+The Sociologist,عالم الاجتماع,El sociólogo
+The Geographer,الجغرافي,El Geógrafo
+The Historian,المؤرخ,El historiador
+The Political Scientist,العالم السياسي,El politólogo
+The Agricultural Technician,الفني الزراعي,El Técnico Agrícola
+The Food Science Technician,فني علوم الأغذية,El Técnico en Ciencias de los Alimentos
+The Biological Technician,الفني البيولوجي,El Técnico Biológico
+The Chemical Technician,الفني الكيميائي,El Técnico Químico
+The Hydrologic Technician,الفني الهيدرولوجي,El Técnico Hidrológico
+The Nuclear Technician,الفني النووي,El técnico nuclear
+The Social Science Research Assistant,مساعد بحوث العلوم الاجتماعية,El Asistente de Investigación en Ciencias Sociales
+The Forensic Science Technician,فني علوم الطب الشرعي,El Técnico en Ciencias Forenses
+The Counselor,المستشار,El Consejero
+The Rehabilitation Counselor,استشاري إعادة التأهيل,El consejero de rehabilitación
+The Social Worker,الأخصائي الاجتماعي,El trabajador social
+The Healthcare Social Worker,الأخصائي الاجتماعي في مجال الرعاية الصحية,El trabajador social de la salud
+The Health Education Specialist,أخصائي التثقيف الصحي,El especialista en educación para la salud
+The Community Health Worker,العامل الصحي المجتمعي,El trabajador de salud comunitario
+The Religious Worker,العامل الديني,El trabajador religioso
+The Clergy,رجال الدين,El clero
+The Legal Occupation,المهنة القانونية,La ocupación legal
+The Lawyer,المحامي,El Abogado
+The Judicial Law Clerk,كاتب القانون القضائي,El Secretario de Derecho Judicial
+The Legal Support Worker,عامل الدعم القانوني,El trabajador de apoyo legal
+The Miscellaneous Legal Support Worker,عامل الدعم القانوني المتنوع,El trabajador de apoyo legal misceláneo
+The Postsecondary Teacher,معلم ما بعد المرحلة الثانوية,El profesor postsecundario
+The Miscellaneous Postsecondary Teacher,معلم ما بعد المرحلة الثانوية المتنوع,El Maestro Postsecundario Misceláneo
+The Secondary School Teacher,معلم المدرسة الثانوية,El profesor de secundaria
+The Special Education Teacher,معلم التربية الخاصة,El maestro de educación especial
+The Self-Enrichment Teacher,معلم الإثراء الذاتي,El maestro de autoenriquecimiento
+The Tutor,المعلم,El Tutor
+The Archivist,أمين الأرشيف,El Archivero
+The Curator,القيم الفني,El Curador
+The Library Technician,فني المكتبة,El Técnico de Biblioteca
+The Instructional Coordinator,المنسق التعليمي,El Coordinador de Instrucción
+The Teaching Assistant,مساعد تدريس,El Ayudante de Cátedra
+The Art Director,المدير الفني,El Director de Arte
+The Craft Artist,الفنان الحرفي,El artista artesanal
+The Designer,المصمم,El Diseñador
+The Fashion Designer,مصمم الأزياء,El diseñador de moda
+The Floral Designer,مصمم الزهور,El diseñador floral
+The Graphic Designer,مصمم الجرافيك,El diseñador gráfico
+The Interior Designer,المصمم الداخلي,El diseñador de interiores
+The Actor,الممثل,El actor
+The Dancer,الراقصة,El bailarín
+The Choreographer,مصمم الرقصات,El coreógrafo
+The Public Relations Specialist,أخصائي العلاقات العامة,El Especialista en Relaciones Públicas
+The Editor,المحرر,El Editor
+The Technical Writer,الكاتب التقني,El escritor técnico
+The Broadcast Technician,فني البث,El técnico de transmisión
+The Sound Engineering Technician,فني هندسة الصوت,El Técnico en Ingeniería de Sonido
+The Lighting Technician,فني الإضاءة,El técnico de iluminación
+The Photographer,المصور,El fotógrafo
+The Healthcare Diagnosing or Treating Practitioner,ممارس تشخيص الرعاية الصحية أو علاجها,El profesional de diagnóstico o tratamiento de la atención médica
+The Chiropractor,مقوم العظام,El Quiropráctico
+The Dentist,طبيب الأسنان,El dentista
+The Orthodontist,أخصائي تقويم الأسنان,El Ortodoncista
+The Prosthodontist,أخصائي التعويضات السنية,El Prostodoncista
+The Optometrist,أخصائي البصريات,El Optometrista
+The Pharmacist,الصيدلي,El farmacéutico
+The Physician Assistant,مساعد الطبيب,El Asistente Médico
+The Podiatrist,طبيب الأقدام,El podólogo
+The Therapist,المعالج,El terapeuta
+The Occupational Therapist,أخصائي العلاج الوظيفي,El terapeuta ocupacional
+The Physical Therapist,أخصائي العلاج الطبيعي,El fisioterapeuta
+The Radiation Therapist,المعالج الإشعاعي,El radioterapeuta
+The Recreational Therapist,المعالج الترفيهي,El terapeuta recreativo
+The Respiratory Therapist,أخصائي العلاج التنفسي,El terapeuta respiratorio
+The Speech-Language Pathologist,أخصائي أمراض النطق واللغة,El patólogo del habla y el lenguaje
+The Exercise Physiologist,فسيولوجي التمرين,El fisiólogo del ejercicio
+The Veterinarian,الطبيب البيطري,El veterinario
+The Registered Nurse,الممرضة المسجلة,La enfermera registrada
+The Nurse Anesthetist,ممرضة التخدير,La enfermera anestesista
+The Nurse Midwive,الممرضة متوسطة المستوى,La enfermera Midwive
+The Nurse Practitioner,الممرض الممارس,La enfermera practicante
+The Audiologist,أخصائي السمعيات,El audiólogo
+The Physician,الطبيب,El médico
+The Anesthesiologist,طبيب التخدير,El Anestesiólogo
+The Cardiologist,طبيب القلب,El cardiólogo
+The Dermatologist,طبيب الأمراض الجلدية,El dermatólogo
+The Emergency Medicine Physician,طبيب طب الطوارئ,El médico de medicina de emergencia
+The Family Medicine Physician,طبيب طب الأسرة,El médico de medicina familiar
+The General Internal Medicine Physician,طبيب الباطنة العام,El médico de medicina interna general
+The Neurologist,طبيب الأعصاب,El neurólogo
+The Psychiatrist,الطبيب النفسي,El psiquiatra
+The Radiologist,أخصائي الأشعة,El radiólogo
+The Surgeon,الجراح,El cirujano
+The Pediatric Surgeon,جراح الأطفال,El cirujano pediátrico
+The Miscellaneous Healthcare Diagnosing or Treating Practitioner,التشخيص أو العلاج المتنوع للرعاية الصحية,El médico de diagnóstico o tratamiento de atención médica miscelánea
+The Acupuncturist,أخصائي الوخز بالإبر,El acupunturista
+The Dental Hygienist,أخصائي صحة الأسنان,El higienista dental
+The Diagnostic Medical Sonographer,أخصائي التصوير بالموجات فوق الصوتية الطبية التشخيصية,El ecografista médico de diagnóstico
+The Nuclear Medicine Technologist,تقني الطب النووي,El tecnólogo de medicina nuclear
+The Magnetic Resonance Imaging Technologist,تقني التصوير بالرنين المغناطيسي,El tecnólogo de imágenes por resonancia magnética
+The Medical Dosimetrist,أخصائي قياس الجرعات الطبية,El Médico Dosimetrista
+The Emergency Medical Technician,فني الطوارئ الطبية,El Técnico en Emergencias Médicas
+The Paramedic,المسعف,El paramédico
+The Dietetic Technician,فني التغذية,El Técnico Dietético
+The Pharmacy Technician,فني الصيدلة,El Técnico de Farmacia
+The Psychiatric Technician,فني الطب النفسي,El técnico psiquiátrico
+The Surgical Technologist,تقني الجراحة,El tecnólogo quirúrgico
+The Ophthalmic Medical Technician,فني طب العيون,El Técnico Médico Oftalmológico
+The Medical Records Specialist,أخصائي السجلات الطبية,El especialista en registros médicos
+The Hearing Aid Specialist,أخصائي السمع,El especialista en audífonos
+The Athletic Trainer,المدرب الرياضي,El entrenador atlético
+The Genetic Counselor,المستشار الوراثي,El Asesor Genético
+The Surgical Assistant,المساعد الجراحي,El asistente quirúrgico
+The Healthcare Support Occupation,مهنة دعم الرعاية الصحية,La ocupación de apoyo sanitario
+The Nursing Assistant,مساعد التمريض,El Asistente de Enfermería
+The Orderlie,ذا أورديرلي,El Ordenanza
+The Psychiatric Aide,المساعد النفسي,El asistente psiquiátrico
+The Occupational Therapy Assistant,مساعد العلاج الوظيفي,El Asistente de Terapia Ocupacional
+The Occupational Therapy Aide,مساعد العلاج الوظيفي,El Asistente de Terapia Ocupacional
+The Physical Therapist Assistant,مساعد أخصائي العلاج الطبيعي,El asistente de fisioterapeuta
+The Physical Therapist Aide,مساعد أخصائي العلاج الطبيعي,El ayudante de fisioterapeuta
+The Other Healthcare Support Occupation,مهنة دعم الرعاية الصحية الأخرى,La otra ocupación de apoyo sanitario
+The Massage Therapist,معالج التدليك,El terapeuta de masaje
+The Miscellaneous Healthcare Support Occupation,مهنة دعم الرعاية الصحية المتنوعة,La ocupación miscelánea de apoyo sanitario
+The Dental Assistant,مساعد طبيب الأسنان,El asistente dental
+The Medical Assistant,المساعد الطبي,El Asistente Médico
+The Medical Equipment Preparer,معد المعدات الطبية,El preparador de equipos médicos
+The Medical Transcriptionist,الناسخ الطبي,El transcriptor médico
+The Pharmacy Aide,مساعد الصيدلية,El ayudante de farmacia
+The Phlebotomist,الفصد,El flebotomista
+The Protective Service Occupation,مهنة الخدمة الوقائية,La ocupación del servicio de protección
+The Supervisors of Protective Service Worker,المشرفون على عامل الخدمة الوقائية,Los supervisores del trabajador del servicio de protección
+The First-Line Supervisors of Law Enforcement Worker,مشرفو الخط الأول لعامل إنفاذ القانون,Los supervisores de primera línea del trabajador de aplicación de la ley
+The First-Line Supervisors of Correctional Officer,مشرفو الخط الأول لموظف الإصلاحيات,Los supervisores de primera línea del oficial correccional
+The First-Line Supervisors of Security Worker,مشرفو الخط الأول لعامل الأمن,Los supervisores de primera línea del trabajador de seguridad
+The Firefighter,رجل الإطفاء,El bombero
+The Fire Inspector,مفتش الإطفاء,El Inspector de Incendios
+The Law Enforcement Worker,عامل إنفاذ القانون,El trabajador de la aplicación de la ley
+The Bailiff,المأمور,El Alguacil
+The Parking Enforcement Worker,عامل إنفاذ وقوف السيارات,El trabajador de control de estacionamiento
+The Police Officer,ضابط الشرطة,El oficial de policía
+The Other Protective Service Worker,عامل خدمة الحماية الآخر,El otro trabajador del servicio de protección
+The Animal Control Worker,عامل مراقبة الحيوانات,El trabajador de control de animales
+The Security Guard,حارس الأمن,El guardia de seguridad
+The Miscellaneous Protective Service Worker,عامل خدمات الحماية المتنوعة,El Trabajador del Servicio de Protección Miscelánea
+The Transportation Security Screener,فاحص أمن النقل,El inspector de seguridad en el transporte
+The School Bus Monitor,مراقب الحافلات المدرسية,El monitor del autobús escolar
+The Cook,ذا كوك,El Cocinero
+The Food Preparation Worker,عامل إعداد الطعام,El trabajador de preparación de alimentos
+The Bartender,النادل,El Barman
+The Dishwasher,غسالة الصحون,El lavavajillas
+The Building Cleaning Worker,عامل تنظيف المباني,El trabajador de limpieza de edificios
+The Pest Control Worker,عامل مكافحة الحشرات,El trabajador de control de plagas
+The Grounds Maintenance Worker,عامل صيانة الأراضي,El trabajador de mantenimiento de terrenos
+The First-Line Supervisors of Gambling Services Worker,مشرفو الخط الأول لعامل خدمات المقامرة,Los supervisores de primera línea del trabajador de servicios de juego
+The First-Line Supervisors of Personal Service Worker,مشرفو الخط الأول لعامل الخدمة الشخصية,Los supervisores de primera línea del trabajador de servicio personal
+The Animal Trainer,مدرب الحيوان,El entrenador de animales
+The Animal Caretaker,القائم بأعمال الحيوان,El cuidador de animales
+The Gambling Services Worker,عامل خدمات المقامرة,El trabajador de servicios de juego
+The Gambling Dealer,تاجر المقامرة,El vendedor de juegos de azar
+The Motion Picture Projectionist,الإسقاط السينمائي,El proyeccionista cinematográfico
+The Costume Attendant,مضيف الزي,El asistente de vestuario
+The Funeral Service Worker,عامل خدمة الجنازة,El trabajador del servicio funerario
+The Embalmer,المحنط,El embalsamador
+The Crematory Operator,مشغل محرقة الجثث,El operador del crematorio
+The Funeral Attendant,مرافق الجنازة,El asistente funerario
+The Personal Appearance Worker,عامل المظهر الشخصي,El trabajador de apariencia personal
+The Barber,الحلاق,El Barbero
+The Miscellaneous Personal Appearance Worker,عامل المظهر الشخصي المتنوع,El trabajador de apariencia personal miscelánea
+The Shampooer,الشامبوبر,El Champú
+The Skincare Specialist,أخصائي العناية بالبشرة,El especialista en cuidado de la piel
+The Concierge,الكونسيرج,El Conserje
+The Childcare Worker,عامل رعاية الأطفال,El trabajador de cuidado infantil
+The Recreation Worker,عامل الترفيه,El trabajador de recreación
+The Residential Advisor,المستشار السكني,El Asesor Residencial
+The First-Line Supervisors of Sales Worker,مشرفو الخط الأول لعامل المبيعات,Los supervisores de primera línea del trabajador de ventas
+The First-Line Supervisors of Retail Sales Worker,مشرفو الخط الأول لعامل مبيعات التجزئة,Los supervisores de primera línea del trabajador de ventas minoristas
+The First-Line Supervisors of Non-Retail Sales Worker,مشرفو الخط الأول لعامل مبيعات غير التجزئة,Los supervisores de primera línea del trabajador de ventas no minoristas
+The Retail Sales Worker,عامل مبيعات التجزئة,El trabajador de ventas minoristas
+The Cashier,أمين الصندوق,El Cajero
+The Cashier,أمين الصندوق,El Cajero
+The Parts Salesperson,مندوب مبيعات قطع الغيار,El vendedor de piezas
+The Retail Salesperson,مندوب مبيعات التجزئة,El vendedor minorista
+The Advertising Sales Agent,وكيل مبيعات الإعلانات,El agente de ventas de publicidad
+The Insurance Sales Agent,وكيل مبيعات التأمين,El Agente de Ventas de Seguros
+The Travel Agent,وكيل السفر,El Agente de Viajes
+The Model,النموذج,El modelo
+The Real Estate Broker,الوسيط العقاري,El corredor de bienes raíces
+The Real Estate Sales Agent,وكيل المبيعات العقارية,El Agente de Ventas de Bienes Raíces
+The Sales Engineer,مهندس المبيعات,El Ingeniero de Ventas
+The Telemarketer,المسوق عبر الهاتف,El Telemarketer
+The Communications Equipment Operator,مشغل معدات الاتصالات,El operador del equipo de comunicaciones
+The Telephone Operator,مشغل الهاتف,El operador telefónico
+The Financial Clerk,الكاتب المالي,El Secretario Financiero
+The Gambling Cage Worker,عامل قفص القمار,El trabajador de la jaula de juego
+The Procurement Clerk,كاتب المشتريات,El empleado de adquisiciones
+The Teller,الصراف,El cajero
+The Brokerage Clerk,كاتب الوساطة,El empleado de corretaje
+The Correspondence Clerk,كاتب المراسلات,El empleado de correspondencia
+The Customer Service Representative,ممثل خدمة العملاء,El Representante de Servicio al Cliente
+The File Clerk,كاتب الملفات,El empleado de archivos
+The New Accounts Clerk,كاتب الحسابات الجديد,El nuevo empleado de cuentas
+The Order Clerk,كاتب الأوامر,El Secretario de Orden
+The Dispatcher,المرسل,El Despachador
+The Public Safety Telecommunicator,جهاز الاتصالات السلكية واللاسلكية للسلامة العامة,El Telecomunicador de Seguridad Pública
+The Postal Service Worker,عامل الخدمات البريدية,El trabajador del servicio postal
+The Postal Service Clerk,كاتب الخدمات البريدية,El empleado del servicio postal
+The Postal Service Mail Carrier,ناقل بريد الخدمة البريدية,El cartero del servicio postal
+The Data Entry Keyer,مفتاح إدخال البيانات,El Keyer de entrada de datos
+The Desktop Publisher,الناشر المكتبي,El editor de escritorio
+The Statistical Assistant,المساعد الإحصائي,El Asistente de Estadística
+The Agricultural Worker,العامل الزراعي,El trabajador agrícola
+The Agricultural Inspector,المفتش الزراعي,El Inspector Agrícola
+The Animal Breeder,مربي الحيوانات,El criador de animales
+The Miscellaneous Agricultural Worker,العامل الزراعي المتنوع,El trabajador agrícola misceláneo
+The Agricultural Equipment Operator,مشغل المعدات الزراعية,El operador de equipos agrícolas
+The Logging Worker,عامل قطع الأشجار,El trabajador maderero
+The Faller,ذا فولر,La Fallera
+The Logging Equipment Operator,مشغل معدات قطع الأشجار,El operador del equipo de registro
+The Construction Trades Worker,عامل مهن البناء,El trabajador de oficios de la construcción
+The Boilermaker,صانع الغلايات,El Boilermaker
+The Stonemason,ذا ستونماسون,El cantero
+The Carpenter,النجار,El carpintero
+The Carpet Installer,مثبت السجاد,El instalador de alfombras
+The Construction Laborer,عامل البناء,El obrero de la construcción
+The Construction Equipment Operator,مشغل معدات البناء,El operador de equipos de construcción
+The Pile Driver Operator,مشغل برنامج تشغيل كومة,El operador del conductor de pilotes
+The Taper,المستدق,El Taper
+The Electrician,كهربائي,El electricista
+The Glazier,ذا جليزر,El vidriero
+The Insulation Worker,عامل العزل,El trabajador de aislamiento
+The Paperhanger,ذا بيبرهانجر,El Paperhanger
+The Pipelayer,طبقة الأنابيب,El Pipelayer
+The Roofer,ذا روفر,El techador
+The Sheet Metal Worker,عامل الصفائح المعدنية,El trabajador de la chapa
+The Solar Photovoltaic Installer,المثبت الشمسي الكهروضوئي,El instalador solar fotovoltaico
+The Helpers--Carpenter,المساعدون--نجار,Los ayudantes - Carpintero
+The Helpers--Electrician,المساعدون--كهربائي,Los ayudantes - electricista
+The Helpers--Roofer,المساعدون - السطح,Los ayudantes - techador
+The Fence Erector,السور المنتصب,El Erector de la Valla
+The Hazardous Materials Removal Worker,عامل إزالة المواد الخطرة,El trabajador de eliminación de materiales peligrosos
+The Highway Maintenance Worker,عامل صيانة الطرق السريعة,El trabajador de mantenimiento de carreteras
+The Extraction Worker,عامل الاستخراج,El trabajador de extracción
+The Underground Mining Machine Operator,مشغل آلة التعدين تحت الأرض,El operador de la máquina minera subterránea
+The Continuous Mining Machine Operator,مشغل آلة التعدين المستمر,El operador de la máquina de minería continua
+The Helpers--Extraction Worker,المساعدون - عامل الاستخراج,Los ayudantes - Trabajador de extracción
+The Avionics Technician,فني إلكترونيات الطيران,El técnico de aviónica
+The Rail Car Repairer,مصلح سيارات السكك الحديدية,El reparador de vagones
+The Small Engine Mechanic,ميكانيكي المحركات الصغيرة,El mecánico de motores pequeños
+The Motorcycle Mechanic,ميكانيكي الدراجات النارية,El mecánico de motocicletas
+The Bicycle Repairer,مصلح الدراجات,El reparador de bicicletas
+The Recreational Vehicle Service Technician,فني خدمة المركبات الترفيهية,El técnico de servicio de vehículos recreativos
+The Mechanical Door Repairer,مصلح الأبواب الميكانيكية,El reparador mecánico de puertas
+The Home Appliance Repairer,مصلح الأجهزة المنزلية,El reparador de electrodomésticos
+The Industrial Machinery Mechanic,ميكانيكي الآلات الصناعية,El mecánico de maquinaria industrial
+The Millwright,ذا ميلرايت,El constructor de molinos
+The Medical Equipment Repairer,مصلح المعدات الطبية,El reparador de equipos médicos
+The Wind Turbine Service Technician,فني خدمة توربينات الرياح,El técnico de servicio de turbinas eólicas
+The Commercial Diver,الغواص التجاري,El buzo comercial
+The Rigger,ذا ريجر,El aparejador
+The Production Occupation,مهنة الإنتاج,La ocupación de la producción
+The Food Processing Worker,عامل تجهيز الأغذية,El trabajador de procesamiento de alimentos
+The Baker,الخباز,El Panadero
+The Miscellaneous Food Processing Worker,عامل تصنيع الأغذية المتنوع,El trabajador de procesamiento de alimentos miscelánea
+The Food Batchmaker,صانع خليط الطعام,El fabricante de lotes de alimentos
+The Machinist,الميكانيكي,El maquinista
+The Printing Worker,عامل الطباعة,El trabajador de la imprenta
+The Printing Press Operator,مشغل المطبعة,El operador de la imprenta
+The Sewing Machine Operator,مشغل ماكينة الخياطة,El operador de la máquina de coser
+The Upholsterer,المنجد,El tapicero
+The Woodworker,عامل الخشب,El carpintero
+The Furniture Finisher,تشطيب الأثاث,El Acabador de Muebles
+The Nuclear Power Reactor Operator,مشغل مفاعل الطاقة النووية,El operador del reactor nuclear
+The Power Plant Operator,مشغل محطة توليد الكهرباء,El operador de la central eléctrica
+The Gas Plant Operator,مشغل محطة الغاز,El operador de la planta de gas
+The Other Production Occupation,مهنة الإنتاج الأخرى,La otra ocupación de producción
+The Cutting Worker,عامل القطع,El trabajador de corte
+The Dental Laboratory Technician,فني مختبر الأسنان,El Técnico de Laboratorio Dental
+The Medical Appliance Technician,فني الأجهزة الطبية,El técnico de aparatos médicos
+The Ophthalmic Laboratory Technician,فني مختبر العيون,El Técnico de Laboratorio Oftalmológico
+The Painting Worker,عامل الرسم,El trabajador de la pintura
+The Semiconductor Processing Technician,فني معالجة أشباه الموصلات,El técnico de procesamiento de semiconductores
+The Computer Numerically Controlled Tool Operator,مشغل الأداة التي يتم التحكم فيها رقميا بواسطة الكمبيوتر,El operador de la herramienta controlada numéricamente por computadora
+The Computer Numerically Controlled Tool Programmer,مبرمج أداة التحكم العددي بالكمبيوتر,El programador de herramientas controladas numéricamente por computadora
+The Miscellaneous Production Worker,عامل الإنتاج المتنوع,El trabajador de producción misceláneo
+The Tire Builder,منشئ الإطارات,El constructor de neumáticos
+The Helpers--Production Worker,المساعدون - عامل الإنتاج,Los ayudantes - Trabajador de producción
+The Air Transportation Worker,عامل النقل الجوي,El trabajador del transporte aéreo
+The Commercial Pilot,الطيار التجاري,El piloto comercial
+The Air Traffic Controller,مراقب الحركة الجوية,El controlador de tránsito aéreo
+The Airfield Operations Specialist,أخصائي عمليات المطار,El Especialista en Operaciones de Aeródromos
+The Flight Attendant,مضيفة الطيران,La azafata
+The Motor Vehicle Operator,مشغل السيارات,El operador de vehículos de motor
+The Driver/Sales Worker,السائق / عامل المبيعات,El conductor/trabajador de ventas
+The Light Truck Driver,سائق الشاحنة الخفيفة,El conductor de camión ligero
+The Passenger Vehicle Driver,سائق سيارة الركاب,El conductor del vehículo de pasajeros
+The Taxi Driver,سائق سيارة الأجرة,El taxista
+The Rail Transportation Worker,عامل النقل بالسكك الحديدية,El trabajador del transporte ferroviario
+The Locomotive Engineer,مهندس القاطرة,El ingeniero de locomotoras
+The Water Transportation Worker,عامل النقل المائي,El trabajador del transporte acuático
+The Motorboat Operator,مشغل القارب البخارى,El operador de la lancha motora
+The Ship Engineer,مهندس السفن,El ingeniero naval
+The Other Transportation Worker,عامل النقل الآخر,El otro trabajador del transporte
+The Parking Attendant,مضيف وقوف السيارات,El encargado del estacionamiento
+The Transportation Service Attendant,مضيف خدمة النقل,El Asistente de Servicio de Transporte
+The Aircraft Service Attendant,مضيفة خدمة الطائرات,El asistente de servicio de la aeronave
+The Traffic Technician,فني المرور,El Técnico de Tráfico
+The Transportation Inspector,مفتش النقل,El Inspector de Transporte
+The Passenger Attendant,مضيفة الركاب,El Asistente de Pasajeros
+The Material Moving Worker,عامل نقل المواد,El trabajador de movimiento de materiales
+The Dredge Operator,مشغل الجرافة,El operador de dragado
+The Pumping Station Operator,مشغل محطة الضخ,El operador de la estación de bombeo
+The Wellhead Pumper,مضخة رأس البئر,La bomba de boca de pozo
