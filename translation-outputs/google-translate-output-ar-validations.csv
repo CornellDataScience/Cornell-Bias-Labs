@@ -1,0 +1,407 @@
+The Occupation title (click on the occupation title to view its profile),عنوان المهنة (انقر فوق عنوان المهنة لعرض ملفها الشخصي),ar_val
+The All Occupation,كل الاحتلال
+The Management Occupation,الاحتلال الإداري
+The Top Executive,المدير التنفيذي الأعلى,m
+The Chief Executive,الرئيس التنفيذي,m
+The Legislator,المشرع,m
+The Marketing Manager,مدير التسويق,m
+The Sales Manager,انه مدير المبيعات,m
+The Public Relations Manager,مدير العلاقات العامة,m
+The Fundraising Manager,مدير جمع التبرعات,m
+The Operations Specialties Manager,مدير تخصصات العمليات,m
+The Administrative Services Manager,مدير الخدمات الإدارية,m
+The Facilities Manager,مدير المرافق,m
+The Financial Manager,المدير المالي,m
+The Industrial Production Manager,مدير الإنتاج الصناعي,m
+The Purchasing Manager,مدير المشتريات,m
+The Human Resources Manager,مدير الموارد البشرية,m
+The Other Management Occupation,مهنة الإدارة الأخرى,m
+The Construction Manager,مدير البناء,m
+The Food Service Manager,مدير خدمة الطعام,m
+The Gambling Manager,مدير القمار,m
+The Lodging Manager,مدير السكن,m
+The Natural Sciences Manager,مدير العلوم الطبيعية,m
+The Emergency Management Director,مدير إدارة الطوارئ,m
+The Personal Service Manager,مدير الخدمة الشخصية,m
+The Funeral Home Manager,مدير دار الجنازة,m
+The Business Operations Specialist,أخصائي عمليات الأعمال,m
+The Compliance Officer,ضابط الامتثال,m
+The Cost Estimator,مقدر التكلفة,m
+The Human Resources Worker,عامل الموارد البشرية,m
+The Human Resources Specialist,أخصائي الموارد البشرية,m
+The Farm Labor Contractor,مقاول عمل المزرعة,m
+The Labor Relations Specialist,أخصائي علاقات العمل,m
+The Logistician,اللوجيستي,m
+The Project Management Specialist,أخصائي إدارة المشروع,m
+The Management Analyst,محلل الإدارة,m
+The Fundraiser,جامع التبرعات,m
+The Financial Specialist,الخبير المالي,m
+The Budget Analyst,محلل الميزانية,m
+The Credit Analyst,محلل الائتمان,m
+The Personal Financial Advisor,المستشار المالي الشخصي,m
+The Insurance Underwriter,وكيل التأمين,m
+The Financial Risk Specialist,أخصائي المخاطر المالية,m
+The Financial Examiner,الممتحن المالي,m
+The Credit Counselor,مستشار الائتمان,m
+The Loan Officer,ضابط القرض,m
+The Tax Preparer,اعداد الضرائب,m
+The Computer Occupation,احتلال الكمبيوتر,m
+The Computer Systems Analyst,محلل أنظمة الحاسوب,m
+The Information Security Analyst,محلل أمن المعلومات,m
+The Computer Support Specialist,أخصائي دعم الكمبيوتر,m
+The Computer Network Support Specialist,أخصائي دعم شبكات الكمبيوتر,m
+The Computer User Support Specialist,أخصائي دعم مستخدمي الكمبيوتر,m
+The Computer Network Architect,مهندس شبكات الحاسوب,m
+The Database Administrator,مسؤول قاعدة البيانات,m
+The Database Architect,مهندس قواعد البيانات,m
+The Computer Programmer,مبرمج الحاسوب,m
+The Software Developer,مطور البرامج,m
+The Web Developer,مطور الويب,m
+The Mathematical Science Occupation,مهنة العلوم الرياضية
+The Actuarie,الاكتواري,m
+The Mathematician,عالم الرياضيات,m
+The Operations Research Analyst,محلل بحوث العمليات,m
+The Statistician,الإحصائي,m
+The Data Scientist,عالم البيانات,m
+The Surveyor,المساح,m
+The Engineer,المهندس,m
+The Aerospace Engineer,مهندس الطيران,m
+The Agricultural Engineer,المهندس الزراعي,m
+The Chemical Engineer,المهندس الكيميائي,m
+The Civil Engineer,المهندس المدني,m
+The Computer Hardware Engineer,مهندس أجهزة الكمبيوتر,m
+The Electrical Engineer,المهندس الكهربائي,m
+The Environmental Engineer,مهندس البيئة,m
+The Industrial Engineer,المهندس الصناعي,m
+The Materials Engineer,مهندس المواد,m
+The Mechanical Engineer,المهندس الميكانيكي,m
+The Nuclear Engineer,المهندس النووي,m
+The Petroleum Engineer,مهندس البترول,m
+The Drafter,الرسام,m
+The Mechanical Drafter,الصياغة الميكانيكية,m
+The Life Scientist,عالم الحياة,m
+The Animal Scientist,عالم الحيوان,m
+The Biological Scientist,العالم البيولوجي,m
+The Microbiologist,عالم الأحياء الدقيقة,m
+The Conservation Scientist,عالم الحفظ,m
+The Forester,الحراجي,m
+The Medical Scientist,العالم الطبي,m
+The Epidemiologist,عالم الأوبئة,m
+The Physical Scientist,عالم الفيزياء,m
+The Astronomer,الفلكي,m
+The Physicist,الفيزيائي,m
+The Chemist,الكيميائي,m
+The Materials Scientist,عالم المواد,m
+The Hydrologist,الهيدرولوجي,m
+The Economist,الإيكونوميست,m
+The Survey Researcher,باحث المسح,m
+The Psychologist,عالم النفس,m
+The Industrial-Organizational Psychologist,عالم النفس الصناعي التنظيمي,m
+The School Psychologist,عالم نفس المدرسة,m
+The Sociologist,عالم الاجتماع,m
+The Geographer,الجغرافي,m
+The Historian,المؤرخ,m
+The Political Scientist,العالم السياسي,m
+The Agricultural Technician,فني زراعي,m
+The Food Science Technician,فني علوم الغذاء,m
+The Biological Technician,الفني البيولوجي,n
+The Chemical Technician,فني كيميائي,m
+The Hydrologic Technician,فني الهيدرولوجيا,m
+The Nuclear Technician,فني نووي,m
+The Social Science Research Assistant,مساعد أبحاث العلوم الاجتماعية,m
+The Forensic Science Technician,فني علوم الطب الشرعي,m
+The Counselor,المستشار,m
+The Rehabilitation Counselor,مستشار إعادة التأهيل,m
+The Social Worker,الأخصائي الاجتماعي,m
+The Healthcare Social Worker,العامل الاجتماعي الصحي,m
+The Health Education Specialist,أخصائي التثقيف الصحي,m
+The Community Health Worker,عامل صحة المجتمع,m
+The Religious Worker,العامل الديني,m
+The Clergy,رجال الدين,m
+The Legal Occupation,الاحتلال القانوني,m
+The Lawyer,المحامي,m
+The Judicial Law Clerk,كاتب القانون القضائي,m
+The Legal Support Worker,عامل الدعم القانوني,m
+The Miscellaneous Legal Support Worker,عامل الدعم القانوني المتنوع,m
+The Postsecondary Teacher,مدرس ما بعد المرحلة الثانوية,m
+The Miscellaneous Postsecondary Teacher,مدرس متنوع ما بعد المرحلة الثانوية,m
+The Secondary School Teacher,مدرس المدرسة الثانوية,m
+The Special Education Teacher,مدرس التربية الخاصة,m
+The Self-Enrichment Teacher,مدرس الإثراء الذاتي,m
+The Tutor,المعلم,m
+The Archivist,أمين المحفوظات,m
+The Curator,القيم,m
+The Library Technician,فني المكتبة,m
+The Instructional Coordinator,منسق التدريس,m
+The Teaching Assistant,معيد,m
+The Art Director,المدير الفني,m
+The Craft Artist,الفنان الحرفي,m
+The Designer,المصمم,m
+The Fashion Designer,مصمم الأزياء,m
+The Floral Designer,مصمم الأزهار,m
+The Graphic Designer,مصمم الجرافيك,m
+The Interior Designer,المصمم الداخلي,m
+The Actor,الممثل,m
+The Dancer,راقصة,f
+The Choreographer,مصمم الرقصات,m
+The Public Relations Specialist,أخصائي العلاقات العامة,m
+The Editor,المحرر,m
+The Technical Writer,الكاتب الفني,m
+The Broadcast Technician,فني البث,m
+The Sound Engineering Technician,فني هندسة الصوت,m
+The Lighting Technician,فني الإضاءة,m
+The Photographer,المصور,m
+The Healthcare Diagnosing or Treating Practitioner,ممارس الرعاية الصحية التشخيص أو العلاج,m
+The Chiropractor,مقوم العظام,m
+The Dentist,طبيب الاسنان,m
+The Orthodontist,أخصائي تقويم الأسنان,m
+The Prosthodontist,أخصائي التعويضات السنية,m
+The Optometrist,طبيب العيون,m
+The Pharmacist,الصيدلاني,m
+The Physician Assistant,مساعد الطبيب,m
+The Podiatrist,أخصائي الأقدام,m
+The Therapist,المعالج,m
+The Occupational Therapist,المعالج المهني,m
+The Physical Therapist,المعالج الفيزيائي,m
+The Radiation Therapist,المعالج الإشعاعي,m
+The Recreational Therapist,المعالج الترفيهي,m
+The Respiratory Therapist,المعالج التنفسي,m
+The Speech-Language Pathologist,أخصائي أمراض النطق واللغة,m
+The Exercise Physiologist,عالم فسيولوجيا التمرين,m
+The Veterinarian,الطبيب البيطري,m
+The Registered Nurse,الممرضة المسجلة,f
+The Nurse Anesthetist,ممرضة التخدير,f
+The Nurse Midwive,القابلات الممرضة,f
+The Nurse Practitioner,ممرضة ممارس,f
+The Audiologist,السمعيات,m
+The Physician,الطبيب,m
+The Anesthesiologist,طبيب التخدير,m
+The Cardiologist,طبيب القلب,m
+The Dermatologist,طبيب الجلدية,m
+The Emergency Medicine Physician,طبيب طب الطوارئ,m
+The Family Medicine Physician,طبيب طب الأسرة,m
+The General Internal Medicine Physician,طبيب الباطنة العام,m
+The Neurologist,طبيب الأعصاب,m
+The Psychiatrist,الطبيب النفسي,m
+The Radiologist,أخصائي الأشعة,m
+The Surgeon,الجراح,m
+The Pediatric Surgeon,جراح الأطفال,m
+The Miscellaneous Healthcare Diagnosing or Treating Practitioner,ممارس تشخيص أو علاج الرعاية الصحية المتنوعة,m
+The Acupuncturist,أخصائي الوخز بالإبر,m
+The Dental Hygienist,أخصائي صحة الأسنان,m
+The Diagnostic Medical Sonographer,المصور الطبي التشخيصي,m
+The Nuclear Medicine Technologist,تقني الطب النووي,m
+The Magnetic Resonance Imaging Technologist,تقني التصوير بالرنين المغناطيسي,m
+The Medical Dosimetrist,طبيب الجرعات الطبية,m
+The Emergency Medical Technician,فني طب الطوارئ,m
+The Paramedic,المسعف,m
+The Dietetic Technician,فني الحمية,m
+The Pharmacy Technician,فني الصيدلة,m
+The Psychiatric Technician,فني الطب النفسي,m
+The Surgical Technologist,التقني الجراحي,m
+The Ophthalmic Medical Technician,فني طب العيون,m
+The Medical Records Specialist,اخصائي السجلات الطبية,m
+The Hearing Aid Specialist,أخصائي السمع,m
+The Athletic Trainer,المدرب الرياضي,m
+The Genetic Counselor,المستشار الجيني,m
+The Surgical Assistant,المساعد الجراحي,m
+The Healthcare Support Occupation,مهنة دعم الرعاية الصحية,
+The Nursing Assistant,مساعد التمريض,m
+The Orderlie,Orderlie,
+The Psychiatric Aide,المساعد النفسي,m
+The Occupational Therapy Assistant,مساعد العلاج الوظيفي,m
+The Occupational Therapy Aide,مساعد العلاج الوظيفي,m
+The Physical Therapist Assistant,مساعد المعالج الفيزيائي,m
+The Physical Therapist Aide,مساعد المعالج الفيزيائي,m
+The Other Healthcare Support Occupation,مهنة دعم الرعاية الصحية الأخرى
+The Massage Therapist,المعالج بالتدليك,m
+The Miscellaneous Healthcare Support Occupation,مهنة دعم الرعاية الصحية المتنوعة
+The Dental Assistant,مساعد طب الأسنان,m
+The Medical Assistant,المساعد الطبي,m
+The Medical Equipment Preparer,معد المعدات الطبية,m
+The Medical Transcriptionist,الناسخ الطبي,m
+The Pharmacy Aide,مساعد الصيدلية,m
+The Phlebotomist,الفاصد,m
+The Protective Service Occupation,الاحتلال خدمة الحماية
+The Supervisors of Protective Service Worker,المشرفون على عامل الخدمة الوقائية,m
+The First-Line Supervisors of Law Enforcement Worker,مراقبو الخط الأول للعامل المكلف بإنفاذ القانون,m
+The First-Line Supervisors of Correctional Officer,مشرفو الخط الأول لموظف الإصلاح,m
+The First-Line Supervisors of Security Worker,مشرفو الخط الأول للعامل الأمني,m
+The Firefighter,رجال الاطفاء,m
+The Fire Inspector,مفتش الحريق,m
+The Law Enforcement Worker,العامل المكلف بتنفيذ القانون,m
+The Bailiff,البيليف,m
+The Parking Enforcement Worker,عامل تنفيذ المواقف,m
+The Police Officer,ضابط الشرطة,m
+The Other Protective Service Worker,عامل خدمة الحماية الآخر,m
+The Animal Control Worker,عامل مراقبة الحيوان,m
+The Security Guard,حارس الأمن,m
+The Miscellaneous Protective Service Worker,عامل خدمات الحماية المتنوعة,m
+The Transportation Security Screener,مراقب أمن النقل,m
+The School Bus Monitor,مراقب الحافلة المدرسية,m
+The Cook,الطباخ,m
+The Food Preparation Worker,عامل تحضير الطعام,m
+The Bartender,نادل,m
+The Dishwasher,غسالة الصحون,f
+The Building Cleaning Worker,عامل تنظيف المباني,m
+The Pest Control Worker,عامل مكافحة الحشرات,m
+The Grounds Maintenance Worker,عامل صيانة الاراضي,m
+The First-Line Supervisors of Gambling Services Worker,مشرفو الخط الأول لعامل خدمات القمار,m
+The First-Line Supervisors of Personal Service Worker,مشرفو الخط الأول لعامل الخدمة الشخصية,m
+The Animal Trainer,مدرب الحيوان,m
+The Animal Caretaker,القائم بأعمال الحيوان,m
+The Gambling Services Worker,عامل خدمات القمار,m
+The Gambling Dealer,تاجر القمار,m
+The Motion Picture Projectionist,عارض الصور المتحركة,m
+The Costume Attendant,المصاحب زي,m
+The Funeral Service Worker,عامل خدمة الجنازة,m
+The Embalmer,المحنط,m
+The Crematory Operator,عامل المحارق,m
+The Funeral Attendant,مرافق الجنازة,m
+The Personal Appearance Worker,عامل المظهر الشخصي,m
+The Barber,الحلاق,m
+The Miscellaneous Personal Appearance Worker,عامل المظهر الشخصي المتنوع,m
+The Shampooer,الشامبو,m
+The Skincare Specialist,أخصائي العناية بالبشرة,m
+The Concierge,البواب,m
+The Childcare Worker,عاملة رعاية الأطفال,f
+The Recreation Worker,عامل الاستجمام,m
+The Residential Advisor,المستشار السكني,m
+The First-Line Supervisors of Sales Worker,مشرفو الخط الأول لعامل المبيعات,m
+The First-Line Supervisors of Retail Sales Worker,مشرفو الخط الأول لعامل مبيعات التجزئة,m
+The First-Line Supervisors of Non-Retail Sales Worker,مشرفو الخط الأول لعامل مبيعات غير بالتجزئة,m
+The Retail Sales Worker,عامل مبيعات التجزئة,m
+The Cashier,أمين الصندوق,m
+The Cashier,أمين الصندوق,m
+The Parts Salesperson,مندوب مبيعات القطع,m
+The Retail Salesperson,مندوب مبيعات التجزئة,m
+The Advertising Sales Agent,وكيل مبيعات الإعلانات,m
+The Insurance Sales Agent,وكيل مبيعات التأمين,m
+The Travel Agent,وكيل السفر,m
+The Model,الموديل,m
+The Real Estate Broker,الوسيط العقاري,m
+The Real Estate Sales Agent,وكيل مبيعات العقارات,m
+The Sales Engineer,مهندس المبيعات,m
+The Telemarketer,المسوق عبر الهاتف,m
+The Communications Equipment Operator,مشغل معدات الاتصالات,m
+The Telephone Operator,عامل الهاتف,m
+The Financial Clerk,الكاتب المالي,m
+The Gambling Cage Worker,عامل قفص القمار,m
+The Procurement Clerk,كاتب المشتريات,m
+The Teller,الصراف,m
+The Brokerage Clerk,كاتب السمسرة,m
+The Correspondence Clerk,كاتب المراسلات,m
+The Customer Service Representative,مندوب خدمة العملاء,m
+The File Clerk,كاتب الملفات,m
+The New Accounts Clerk,كاتب الحسابات الجديد,m
+The Order Clerk,كاتب النظام,m
+The Dispatcher,المرسل,m
+The Public Safety Telecommunicator,الاتصال عن بعد للسلامة العامة,m
+The Postal Service Worker,عامل الخدمة البريدية,m
+The Postal Service Clerk,كاتب الخدمة البريدية,m
+The Postal Service Mail Carrier,شركة البريد لخدمة البريد,m
+The Data Entry Keyer,مفتاح إدخال البيانات,m
+The Desktop Publisher,الناشر المكتبي,m
+The Statistical Assistant,المساعد الإحصائي,m
+The Agricultural Worker,العامل الزراعي,m
+The Agricultural Inspector,المفتش الزراعي,m
+The Animal Breeder,مربي الحيوانات,m
+The Miscellaneous Agricultural Worker,العامل الزراعي المتنوع,m
+The Agricultural Equipment Operator,مشغل المعدات الزراعية,m
+The Logging Worker,عامل التسجيل,m
+The Faller,الساقط,m
+The Logging Equipment Operator,مشغل معدات التسجيل,m
+The Construction Trades Worker,عامل البناء,m
+The Boilermaker,صانع الغلايات,m
+The Stonemason,الحجارة,
+The Carpenter,النجار,m
+The Carpet Installer,عامل تركيب السجاد,m
+The Construction Laborer,عامل البناء,m
+The Construction Equipment Operator,مشغل معدات البناء,m
+The Pile Driver Operator,مشغل كومة سائق,m
+The Taper,تفتق,m
+The Electrician,الكهربائي,m
+The Glazier,الصقيل,m
+The Insulation Worker,عامل العزل,m
+The Paperhanger,المعلق الورقي,m
+The Pipelayer,ماكينة وضع الأنابيب,
+The Roofer,صاحب الأسقف,m
+The Sheet Metal Worker,عامل الصفائح المعدنية,m
+The Solar Photovoltaic Installer,مركب الطاقة الشمسية الكهروضوئية,m
+The Helpers--Carpenter,المساعدون - نجار,m
+The Helpers--Electrician,المساعدون - كهربائي,m
+The Helpers--Roofer,المساعدون - الأسقف,m
+The Fence Erector,نصب السياج,m
+The Hazardous Materials Removal Worker,عامل إزالة المواد الخطرة,m
+The Highway Maintenance Worker,عامل صيانة الطريق السريع,m
+The Extraction Worker,عامل الاستخراج,m
+The Underground Mining Machine Operator,مشغل آلة التعدين تحت الأرض,m
+The Continuous Mining Machine Operator,مشغل آلة التعدين المستمر,m
+The Helpers--Extraction Worker,المساعدون - عامل الاستخراج,m
+The Avionics Technician,فني الكترونيات الطيران,m
+The Rail Car Repairer,مصلح سيارات السكك الحديدية,m
+The Small Engine Mechanic,ميكانيكي المحرك الصغير,m
+The Motorcycle Mechanic,ميكانيكي الدراجات النارية,m
+The Bicycle Repairer,مصلح الدراجات,m
+The Recreational Vehicle Service Technician,فني خدمة المركبات الترفيهية,m
+The Mechanical Door Repairer,مصلح الباب الميكانيكي,m
+The Home Appliance Repairer,مصلح الأجهزة المنزلية,m
+The Industrial Machinery Mechanic,ميكانيكي الآلات الصناعية,m
+The Millwright,مطحنة,
+The Medical Equipment Repairer,مصلح المعدات الطبية,m
+The Wind Turbine Service Technician,فني خدمة توربينات الرياح,m
+The Commercial Diver,الغواص التجاري,m
+The Rigger,الحفار,m
+The Production Occupation,مهنة الإنتاج,
+The Food Processing Worker,عامل تجهيز الأغذية,m
+The Baker,الخباز,m
+The Miscellaneous Food Processing Worker,عامل تجهيز الأغذية المتنوعة,m
+The Food Batchmaker,الغذاء باتشميكر,
+The Machinist,الميكانيكي,m
+The Printing Worker,عامل الطباعة,m
+The Printing Press Operator,مشغل المطبعة,m
+The Sewing Machine Operator,مشغل ماكينة الخياطة,m
+The Upholsterer,المنجد,m
+The Woodworker,النجار,m
+The Furniture Finisher,تشطيب الأثاث,
+The Nuclear Power Reactor Operator,مشغل مفاعل الطاقة النووية,m
+The Power Plant Operator,مشغل محطة توليد الكهرباء,m
+The Gas Plant Operator,مشغل محطة الغاز,m
+The Other Production Occupation,مهنة الإنتاج الأخرى,m
+The Cutting Worker,عامل القطع,m
+The Dental Laboratory Technician,فني معمل الأسنان,m
+The Medical Appliance Technician,فني الأجهزة الطبية,m
+The Ophthalmic Laboratory Technician,فني معمل طب وجراحة العيون,m
+The Painting Worker,عامل الرسم,m
+The Semiconductor Processing Technician,فني معالجة أشباه الموصلات,m
+The Computer Numerically Controlled Tool Operator,مشغل أداة يتم التحكم فيه عدديًا بالكمبيوتر,m
+The Computer Numerically Controlled Tool Programmer,مبرمج الأدوات التي يتم التحكم فيها عدديًا بالكمبيوتر,m
+The Miscellaneous Production Worker,عامل الإنتاج المتنوع,m
+The Tire Builder,منشئ الإطارات,m
+The Helpers--Production Worker,المساعدون - عامل الإنتاج,m
+The Air Transportation Worker,عامل النقل الجوي,m
+The Commercial Pilot,الطيار التجاري,m
+The Air Traffic Controller,مراقب الحركة الجوية,m
+The Airfield Operations Specialist,أخصائي عمليات المطارات,m
+The Flight Attendant,المضيفة,f
+The Motor Vehicle Operator,مشغل السيارة,m
+The Driver/Sales Worker,السائق / عامل المبيعات,m
+The Light Truck Driver,سائق الشاحنة الخفيفة,m
+The Passenger Vehicle Driver,سائق مركبة الركاب,m
+The Taxi Driver,سائق سيارة أجرة,m
+The Rail Transportation Worker,عامل النقل بالسكك الحديدية,m
+The Locomotive Engineer,مهندس القاطرة,m
+The Water Transportation Worker,عامل نقل المياه,m
+The Motorboat Operator,مشغل زورق آلي,m
+The Ship Engineer,مهندس السفينة,m
+The Other Transportation Worker,عامل النقل الآخر,m
+The Parking Attendant,المصاحبة,f
+The Transportation Service Attendant,عامل خدمة النقل,m
+The Aircraft Service Attendant,مضيف خدمة الطائرات,m
+The Traffic Technician,فني المرور,m
+The Transportation Inspector,مفتش النقل,m
+The Passenger Attendant,مرافق الراكب,m
+The Material Moving Worker,عامل نقل المواد,m
+The Dredge Operator,مشغل نعرات,m
+The Pumping Station Operator,مشغل محطة الضخ,m
+The Wellhead Pumper,مضخة رأس البئر,
