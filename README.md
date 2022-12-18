@@ -1,4 +1,4 @@
-# **Cornell-Bias-Labs**
+# **Cornell Bias Labs**
 ### *Analyzing identity biases with(in) machine learning and artificially intelligent systems. Sponsored by MunichRE.*
 
 ## **Fall 2022 : Bias in Machine Translation**
